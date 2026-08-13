@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T03:08:54Z",
             "owner": "jdx",
             "repo": "mise",
-            "stars": 32337
+            "stars": 32350
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-12T01:47:40Z",
             "owner": "asdf-vm",
             "repo": "asdf",
-            "stars": 25519
+            "stars": 25520
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-20T14:44:20Z",
             "owner": "version-fox",
             "repo": "vfox",
-            "stars": 3960
+            "stars": 3961
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2023-12-16T04:48:42Z",
             "owner": "anyenv",
             "repo": "anyenv",
-            "stars": 1852
+            "stars": 1851
           }
         },
         {
@@ -162,10 +162,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:51:27Z",
+            "last_commit": "2026-08-13T05:04:16Z",
             "owner": "astral-sh",
             "repo": "uv",
-            "stars": 88694
+            "stars": 88700
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-07-24T19:11:41Z",
             "owner": "nvm-sh",
             "repo": "nvm",
-            "stars": 94560
+            "stars": 94562
           }
         },
         {
@@ -266,10 +266,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T22:26:08Z",
+            "last_commit": "2026-08-13T06:34:27Z",
             "owner": "pnpm",
             "repo": "pnpm",
-            "stars": 36044
+            "stars": 36046
           }
         },
         {
@@ -283,7 +283,7 @@
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26547
+            "stars": 26548
           }
         },
         {
@@ -505,7 +505,7 @@
             "last_commit": "2026-07-02T23:57:04Z",
             "owner": "voidint",
             "repo": "g",
-            "stars": 2857
+            "stars": 2858
           }
         },
         {
@@ -581,7 +581,7 @@
             "last_commit": "2026-05-04T10:34:49Z",
             "owner": "shyiko",
             "repo": "jabba",
-            "stars": 3410
+            "stars": 3411
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-01-28T12:16:45Z",
             "owner": "phpbrew",
             "repo": "phpbrew",
-            "stars": 5526
+            "stars": 5525
           }
         },
         {
@@ -983,7 +983,7 @@
             "last_commit": "2025-06-14T23:23:03Z",
             "owner": "marler8997",
             "repo": "zigup",
-            "stars": 1127
+            "stars": 1126
           }
         },
         {
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:21.674Z",
+    "last_updated": "2026-08-13T08:02:52.623Z",
     "original_repository": "bernardoduarte/awesome-version-managers",
     "original_repository_sha": "c3916945a9cb00aa8c4660eb4267fbb99c358cbd",
     "enhanced_repository": "enhansome/enhansome-version-managers",
