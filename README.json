@@ -1,1050 +1,1130 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mise",
+              "description": "An drop-in replacement written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586920414,
+                "language": "Rust",
+                "last_commit": "2026-08-19T03:42:15Z",
+                "owner": "jdx",
+                "repo": "mise",
+                "stars": 32683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asdf-vm",
+              "description": "An extendable version manager using a plugin structure to handle new version managers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27291507,
+                "language": "Go",
+                "last_commit": "2026-08-12T01:47:40Z",
+                "owner": "asdf-vm",
+                "repo": "asdf",
+                "stars": 25534
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pkgx",
+              "description": "A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430183021,
+                "language": "Rust",
+                "last_commit": "2026-08-17T06:27:12Z",
+                "owner": "pkgxdev",
+                "repo": "pkgx",
+                "stars": 9902
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spack",
+              "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15730865,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:27:51Z",
+                "owner": "spack",
+                "repo": "spack",
+                "stars": 5106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vfox",
+              "description": "A cross-platform, extensible version manager. It supports native Windows and Unix-like.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729446906,
+                "language": "Go",
+                "last_commit": "2026-07-20T14:44:20Z",
+                "owner": "version-fox",
+                "repo": "vfox",
+                "stars": 3966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anyenv",
+              "description": "A version manager wrapper allowing maintenance of multiple version managers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10616498,
+                "language": "Shell",
+                "last_commit": "2023-12-16T04:48:42Z",
+                "owner": "anyenv",
+                "repo": "anyenv",
+                "stars": 1851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aqua",
+              "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399811207,
+                "language": "Go",
+                "last_commit": "2026-08-19T02:38:03Z",
+                "owner": "aquaproj",
+                "repo": "aqua",
+                "stars": 1811
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "proto",
+              "description": "A pluggable next-generation version manager for multiple programming languages as unified toolchain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602787735,
+                "language": "Rust",
+                "last_commit": "2026-08-18T23:22:58Z",
+                "owner": "moonrepo",
+                "repo": "proto",
+                "stars": 1393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vmr",
+              "description": "A simple, cross-platform, and well-tested version manager for programming languages and tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 765134352,
+                "language": "Go",
+                "last_commit": "2026-08-12T15:32:25Z",
+                "owner": "gvcgo",
+                "repo": "version-manager",
+                "stars": 1338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "woof",
+              "description": "A Bash-based version manager with plugin support optimized for UX",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420489337,
+                "language": "Shell",
+                "last_commit": "2026-04-10T07:47:31Z",
+                "owner": "version-manager",
+                "repo": "woof",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uv",
+              "description": "An extremely fast Python package and project manager, written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699532645,
+                "language": "Rust",
+                "last_commit": "2026-08-19T03:46:47Z",
+                "owner": "astral-sh",
+                "repo": "uv",
+                "stars": 88864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyenv",
+              "description": "A tool that allows you to switch between multiple versions of Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5625464,
+                "language": "Shell",
+                "last_commit": "2026-08-16T22:51:28Z",
+                "owner": "pyenv",
+                "repo": "pyenv",
+                "stars": 45029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyenv-win",
+              "description": "A porting of pyenv for Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167596974,
+                "language": "VBScript",
+                "last_commit": "2026-08-14T02:34:18Z",
+                "owner": "pyenv-win",
+                "repo": "pyenv-win",
+                "stars": 7369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyflow",
+              "description": "A multipurpose Python environment manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196969828,
+                "language": "Rust",
+                "last_commit": "2026-03-21T20:37:57Z",
+                "owner": "David-OConnor",
+                "repo": "pyflow",
+                "stars": 1338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pythonz",
+              "description": "A program to automate the building and installation of Python versions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 3885342,
+                "language": "Python",
+                "last_commit": "2023-12-14T15:21:35Z",
+                "owner": "saghul",
+                "repo": "pythonz",
+                "stars": 753
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nvm",
+              "description": "A version manager for Node.js, designed to be installed per user, and invoked per shell.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612230,
+                "language": "Shell",
+                "last_commit": "2026-08-18T06:42:47Z",
+                "owner": "nvm-sh",
+                "repo": "nvm",
+                "stars": 94647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nvm-windows",
+              "description": "Same of nvm, but for Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24268127,
+                "language": "Go",
+                "last_commit": "2026-04-17T17:58:18Z",
+                "owner": "coreybutler",
+                "repo": "nvm-windows",
+                "stars": 47389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pnpm",
+              "description": "A fast and disk space efficient package manager that can also manage Node.js versions via it's env command.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50565430,
+                "language": "Rust",
+                "last_commit": "2026-08-19T06:42:51Z",
+                "owner": "pnpm",
+                "repo": "pnpm",
+                "stars": 36133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fnm",
+              "description": "Fast and simple Node.js version manager built in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166045424,
+                "language": "Rust",
+                "last_commit": "2026-07-24T14:28:38Z",
+                "owner": "Schniz",
+                "repo": "fnm",
+                "stars": 26610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "n",
+              "description": "An interactive manager that has no subshells and no profile setup.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1223029,
+                "language": "Shell",
+                "last_commit": "2026-08-14T23:57:12Z",
+                "owner": "tj",
+                "repo": "n",
+                "stars": 19507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "volta",
+              "description": "A JavaScript tool manager, designed to provide seamless, fully isolated node environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104796770,
+                "language": "Rust",
+                "last_commit": "2025-11-15T16:00:15Z",
+                "owner": "volta-cli",
+                "repo": "volta",
+                "stars": 13054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nvs",
+              "description": "A cross-platform utility for switching between different versions and forks of Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70508053,
+                "language": "JavaScript",
+                "last_commit": "2026-08-07T17:57:57Z",
+                "owner": "jasongin",
+                "repo": "nvs",
+                "stars": 2960
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodenv",
+              "description": "A tool that can automatically select the appropriate node version for a given project and doesn't require shell integration or overriding of builtin commands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8685986,
+                "language": "Shell",
+                "last_commit": "2026-08-17T18:17:10Z",
+                "owner": "nodenv",
+                "repo": "nodenv",
+                "stars": 2414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodebrew",
+              "description": "A simple Node.js version manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2776765,
+                "language": "Perl",
+                "last_commit": "2022-03-19T04:27:49Z",
+                "owner": "hokaccha",
+                "repo": "nodebrew",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nve",
+              "description": "Run any command on specific Node.js versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201104057,
+                "language": "JavaScript",
+                "last_commit": "2026-08-04T15:58:42Z",
+                "owner": "ehmicky",
+                "repo": "nve",
+                "stars": 711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nvm-rust",
+              "description": "A cross platform Node.js version manager made in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 284156844,
+                "language": "Rust",
+                "last_commit": "2025-10-12T00:26:08Z",
+                "owner": "beeequeue",
+                "repo": "nvm-rust",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chnode",
+              "description": "A lightweight Node.js version switcher that allows for auto-switching by updating the PATH, inspired by chruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150030497,
+                "language": "Shell",
+                "last_commit": "2026-08-04T18:38:51Z",
+                "owner": "tkareine",
+                "repo": "chnode",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rbenv",
+              "description": "A manager that focus on switching Ruby versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2139017,
+                "language": "Shell",
+                "last_commit": "2026-07-14T14:02:43Z",
+                "owner": "rbenv",
+                "repo": "rbenv",
+                "stars": 16734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rvm",
+              "description": "A tool that is loaded into the shell, overrides some commands and also manages gemsets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286066,
+                "language": "Shell",
+                "last_commit": "2026-07-29T21:43:33Z",
+                "owner": "rvm",
+                "repo": "rvm",
+                "stars": 5191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chruby",
+              "description": "A Ruby version switcher that allows for auto-switching, updates PATH and has around 100 lines of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5266284,
+                "language": "Shell",
+                "last_commit": "2025-10-27T05:38:57Z",
+                "owner": "postmodern",
+                "repo": "chruby",
+                "stars": 2912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frum",
+              "description": "A fast and modern Ruby version manager written in Rust that is also cross-platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345714504,
+                "language": "Rust",
+                "last_commit": "2022-05-13T14:49:42Z",
+                "owner": "TaKO8Ki",
+                "repo": "frum",
+                "stars": 655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rbenv-win",
+              "description": "A porting of rbenv to Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54304590,
+                "language": "VBScript",
+                "last_commit": "2022-09-18T18:10:41Z",
+                "owner": "nak1114",
+                "repo": "rbenv-win",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gvm",
+              "description": "An interface to manage Go versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2902935,
+                "language": "Shell",
+                "last_commit": "2024-08-08T13:36:18Z",
+                "owner": "moovweb",
+                "repo": "gvm",
+                "stars": 11676
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "g",
+              "description": "A command-line tool for Linux, macOS, and Windows that provides convenient management and switching of multiple versions of the Go environment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183450906,
+                "language": "Go",
+                "last_commit": "2026-07-02T23:57:04Z",
+                "owner": "voidint",
+                "repo": "g",
+                "stars": 2860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "goenv",
+              "description": "Version manager like pyenv and rbenv, but for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56429359,
+                "language": "Shell",
+                "last_commit": "2026-08-14T14:24:49Z",
+                "owner": "go-nv",
+                "repo": "goenv",
+                "stars": 2535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "g",
+              "description": "A simples Go version manager inspired by .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128644798,
+                "language": "Shell",
+                "last_commit": "2026-05-26T22:10:08Z",
+                "owner": "stefanmaric",
+                "repo": "g",
+                "stars": 1078
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "goup",
+              "description": "An elegant version manager written in Go that is installed with a one-liner and that work well on all Linux distros.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299215896,
+                "language": "Go",
+                "last_commit": "2024-12-11T23:52:13Z",
+                "owner": "owenthereal",
+                "repo": "goup",
+                "stars": 603
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jEnv",
+              "description": "A version switcher for Java that does not handle installation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7808903,
+                "language": "Shell",
+                "last_commit": "2026-02-22T09:58:28Z",
+                "owner": "jenv",
+                "repo": "jenv",
+                "stars": 6654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jabba",
+              "description": "A cross-platform Java manager that allows for installation and switching of JDKs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54615819,
+                "language": "Go",
+                "last_commit": "2026-05-04T10:34:49Z",
+                "owner": "shyiko",
+                "repo": "jabba",
+                "stars": 3409
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jvms",
+              "description": "A JDK version manager for Windows made in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45619409,
+                "language": "Go",
+                "last_commit": "2026-07-23T07:15:40Z",
+                "owner": "ystyle",
+                "repo": "jvms",
+                "stars": 1023
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jenv",
+              "description": "A cross-platform tool for managing parallel Versions of JDKs which allows for installing, switching, removing and listing candidates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8085806,
+                "language": "Shell",
+                "last_commit": "2020-03-31T21:34:22Z",
+                "owner": "linux-china",
+                "repo": "jenv",
+                "stars": 603
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "swiftenv",
+              "description": "A Swift manager that changes version per user, set a per-project version and allows you to override the version with an environmental variable.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48044015,
+                "language": "Shell",
+                "last_commit": "2024-12-23T12:19:32Z",
+                "owner": "kylef",
+                "repo": "swiftenv",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swiftly",
+              "description": "A CLI tool for installing, managing, and switching between Swift toolchains, written in Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505560555,
+                "language": "Swift",
+                "last_commit": "2026-08-13T19:12:33Z",
+                "owner": "swiftlang",
+                "repo": "swiftly",
+                "stars": 953
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "phpbrew",
+              "description": "A utility that builds and installs multiple version of PHP in your HOME directory allowing of switching between them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2468290,
+                "language": "Makefile",
+                "last_commit": "2026-01-28T12:16:45Z",
+                "owner": "phpbrew",
+                "repo": "phpbrew",
+                "stars": 5525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phpenv",
+              "description": "A version manager that operates binaries on the user directory and utilizes shims.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4140723,
+                "language": "Shell",
+                "last_commit": "2026-07-30T21:45:31Z",
+                "owner": "phpenv",
+                "repo": "phpenv",
+                "stars": 1865
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "perlbrew",
+              "description": "A tool that manages multiple Perl environments and allows switching between them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538431,
+                "language": "Perl",
+                "last_commit": "2026-06-07T13:41:54Z",
+                "owner": "gugod",
+                "repo": "App-perlbrew",
+                "stars": 737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "plenv",
+              "description": "A manager that installs multiple versions on the home directory, uses shims and allows to set local version per directory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571655,
+                "language": "Shell",
+                "last_commit": "2025-08-19T06:45:34Z",
+                "owner": "tokuhirom",
+                "repo": "plenv",
+                "stars": 537
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Perl"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luaver",
+              "description": "A helper to manage and switch between different versions of Lua, LuaJIT and Luarocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58576657,
+                "language": "Shell",
+                "last_commit": "2022-09-12T22:06:43Z",
+                "owner": "DhavalKapil",
+                "repo": "luaver",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lenv",
+              "description": "A Lua version manager that allows installation and switching between multiple versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35328635,
+                "language": "Go",
+                "last_commit": "2025-04-14T10:32:04Z",
+                "owner": "mah0x211",
+                "repo": "lenv",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lua"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kiex",
+              "description": "A utility that allows build and switch between different Elixir versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15460812,
+                "language": "Shell",
+                "last_commit": "2026-03-13T16:59:13Z",
+                "owner": "taylor",
+                "repo": "kiex",
+                "stars": 794
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exenv",
+              "description": "A Elixir version manager based on rbenv.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174451562,
+                "language": "Shell",
+                "last_commit": "2018-12-21T18:11:04Z",
+                "owner": "askagirl",
+                "repo": "exenv-1",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Elixir"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kerl",
+              "description": "A POSIX shell tool for building and installing Erlang/OTP instances allowing for easy switches between those installations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2000878,
+                "language": "Shell",
+                "last_commit": "2025-06-19T17:26:34Z",
+                "owner": "kerl",
+                "repo": "kerl",
+                "stars": 1662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "evm",
+              "description": "A tool that allows you to install multiple versions of erlang on your system and switch between them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4597406,
+                "language": "Shell",
+                "last_commit": "2023-05-20T18:25:02Z",
+                "owner": "robisonsantos",
+                "repo": "evm",
+                "stars": 117
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Erlang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "juliavm",
+              "description": "A CLI tool which allows you to install, manage, and work with Julia environments and switch between them.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 79514103,
+                "language": "Shell",
+                "last_commit": "2021-02-20T22:12:08Z",
+                "owner": "pmargreff",
+                "repo": "juliavm",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jlenv",
+              "description": "A Julia version manager based on rbenv.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106077560,
+                "language": "Shell",
+                "last_commit": "2018-10-28T05:11:48Z",
+                "owner": "HiroakiMikami",
+                "repo": "jlenv",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Julia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tenv",
+              "description": "A versatile version manager for OpenTofu, Terraform and Terragrunt, written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739378779,
+                "language": "Go",
+                "last_commit": "2026-08-18T09:50:34Z",
+                "owner": "tofuutils",
+                "repo": "tenv",
+                "stars": 1430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tofuenv",
+              "description": "A OpenTofu version manager inspired by tfenv.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736036811,
+                "language": "Shell",
+                "last_commit": "2026-02-10T00:33:55Z",
+                "owner": "tofuutils",
+                "repo": "tofuenv",
+                "stars": 235
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenTofu"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Xcodes.app",
+              "description": "An app that offers the easiest way to install and switch between multiple versions of Xcode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315822591,
+                "language": "Swift",
+                "last_commit": "2026-07-08T03:51:59Z",
+                "owner": "XcodesOrg",
+                "repo": "XcodesApp",
+                "stars": 8493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xcodes",
+              "description": "A command-line tool to install and switch between multiple versions of Xcode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171964196,
+                "language": "Swift",
+                "last_commit": "2026-07-08T04:01:23Z",
+                "owner": "XcodesOrg",
+                "repo": "xcodes",
+                "stars": 4754
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Xcode"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Godots",
+              "description": "An app that manages your Godot versions and projects with support for all platforms while also allowing for theming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661360739,
+                "language": "GDScript",
+                "last_commit": "2026-06-06T11:43:58Z",
+                "owner": "MakovWait",
+                "repo": "godots",
+                "stars": 779
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Godot Manager",
+              "description": "An app made in C# that can manage the engine versions of Godot from the official Github repository, as well as getting updates from new releases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434821926,
+                "language": "C#",
+                "last_commit": "2026-03-31T01:54:37Z",
+                "owner": "eumario",
+                "repo": "godot-manager",
+                "stars": 414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GVM",
+              "description": "A simple app that can install and remove any version of Godot, even the alpha, beta, rc and dev versions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420323668,
+                "language": "GDScript",
+                "last_commit": "2026-07-29T22:22:17Z",
+                "owner": "noidexe",
+                "repo": "godot-version-manager",
+                "stars": 230
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Godot"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zigup",
+              "description": "A Zig version manager made entirely with Zig.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268129020,
+                "language": "Zig",
+                "last_commit": "2025-06-14T23:23:03Z",
+                "owner": "marler8997",
+                "repo": "zigup",
+                "stars": 1126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zvm",
+              "description": "A version manager made in Go that works on Linux, BSD, MacOS, *nix systems including Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563690547,
+                "language": "Go",
+                "last_commit": "2026-08-15T06:58:41Z",
+                "owner": "tristanisham",
+                "repo": "zvm",
+                "stars": 1044
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zig"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dvm",
+              "description": "A small tool to install and manage DMD (self-hosting) compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3272778,
+                "language": "D",
+                "last_commit": "2025-05-08T08:04:29Z",
+                "owner": "jacob-carlborg",
+                "repo": "dvm",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ldcup",
+              "description": "A small tool to install and manage LDC2 (LLVM backend) compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905335988,
+                "language": "D",
+                "last_commit": "2026-06-22T01:12:57Z",
+                "owner": "kassane",
+                "repo": "ldcup",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "D"
+        }
+      ],
       "title": "Version Managers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mise",
-          "description": "An drop-in replacement written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T01:57:18Z",
-            "owner": "jdx",
-            "repo": "mise",
-            "stars": 32634
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "asdf-vm",
-          "description": "An extendable version manager using a plugin structure to handle new version managers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T01:47:40Z",
-            "owner": "asdf-vm",
-            "repo": "asdf",
-            "stars": 25534
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pkgx",
-          "description": "A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T06:27:12Z",
-            "owner": "pkgxdev",
-            "repo": "pkgx",
-            "stars": 9899
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spack",
-          "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T07:15:10Z",
-            "owner": "spack",
-            "repo": "spack",
-            "stars": 5106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vfox",
-          "description": "A cross-platform, extensible version manager. It supports native Windows and Unix-like.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-20T14:44:20Z",
-            "owner": "version-fox",
-            "repo": "vfox",
-            "stars": 3963
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anyenv",
-          "description": "A version manager wrapper allowing maintenance of multiple version managers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-12-16T04:48:42Z",
-            "owner": "anyenv",
-            "repo": "anyenv",
-            "stars": 1851
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aqua",
-          "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T05:03:01Z",
-            "owner": "aquaproj",
-            "repo": "aqua",
-            "stars": 1810
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "proto",
-          "description": "A pluggable next-generation version manager for multiple programming languages as unified toolchain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T05:57:37Z",
-            "owner": "moonrepo",
-            "repo": "proto",
-            "stars": 1390
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vmr",
-          "description": "A simple, cross-platform, and well-tested version manager for programming languages and tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T15:32:25Z",
-            "owner": "gvcgo",
-            "repo": "version-manager",
-            "stars": 1338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "woof",
-          "description": "A Bash-based version manager with plugin support optimized for UX",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-10T07:47:31Z",
-            "owner": "version-manager",
-            "repo": "woof",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Generic"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "uv",
-          "description": "An extremely fast Python package and project manager, written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T00:18:53Z",
-            "owner": "astral-sh",
-            "repo": "uv",
-            "stars": 88825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyenv",
-          "description": "A tool that allows you to switch between multiple versions of Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-16T22:51:28Z",
-            "owner": "pyenv",
-            "repo": "pyenv",
-            "stars": 45028
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyenv-win",
-          "description": "A porting of pyenv for Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBScript",
-            "last_commit": "2026-08-14T02:34:18Z",
-            "owner": "pyenv-win",
-            "repo": "pyenv-win",
-            "stars": 7365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyflow",
-          "description": "A multipurpose Python environment manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-21T20:37:57Z",
-            "owner": "David-OConnor",
-            "repo": "pyflow",
-            "stars": 1338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pythonz",
-          "description": "A program to automate the building and installation of Python versions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-12-14T15:21:35Z",
-            "owner": "saghul",
-            "repo": "pythonz",
-            "stars": 753
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nvm",
-          "description": "A version manager for Node.js, designed to be installed per user, and invoked per shell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T06:42:47Z",
-            "owner": "nvm-sh",
-            "repo": "nvm",
-            "stars": 94634
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nvm-windows",
-          "description": "Same of nvm, but for Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-17T17:58:18Z",
-            "owner": "coreybutler",
-            "repo": "nvm-windows",
-            "stars": 47383
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pnpm",
-          "description": "A fast and disk space efficient package manager that can also manage Node.js versions via it's env command.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T06:42:40Z",
-            "owner": "pnpm",
-            "repo": "pnpm",
-            "stars": 36122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fnm",
-          "description": "Fast and simple Node.js version manager built in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-24T14:28:38Z",
-            "owner": "Schniz",
-            "repo": "fnm",
-            "stars": 26597
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "n",
-          "description": "An interactive manager that has no subshells and no profile setup.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-14T23:57:12Z",
-            "owner": "tj",
-            "repo": "n",
-            "stars": 19505
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "volta",
-          "description": "A JavaScript tool manager, designed to provide seamless, fully isolated node environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-15T16:00:15Z",
-            "owner": "volta-cli",
-            "repo": "volta",
-            "stars": 13054
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nvs",
-          "description": "A cross-platform utility for switching between different versions and forks of Node.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-07T17:57:57Z",
-            "owner": "jasongin",
-            "repo": "nvs",
-            "stars": 2960
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nodenv",
-          "description": "A tool that can automatically select the appropriate node version for a given project and doesn't require shell integration or overriding of builtin commands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T18:17:10Z",
-            "owner": "nodenv",
-            "repo": "nodenv",
-            "stars": 2414
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nodebrew",
-          "description": "A simple Node.js version manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2022-03-19T04:27:49Z",
-            "owner": "hokaccha",
-            "repo": "nodebrew",
-            "stars": 1068
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nve",
-          "description": "Run any command on specific Node.js versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-04T15:58:42Z",
-            "owner": "ehmicky",
-            "repo": "nve",
-            "stars": 711
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nvm-rust",
-          "description": "A cross platform Node.js version manager made in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2025-10-12T00:26:08Z",
-            "owner": "beeequeue",
-            "repo": "nvm-rust",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chnode",
-          "description": "A lightweight Node.js version switcher that allows for auto-switching by updating the PATH, inspired by chruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-04T18:38:51Z",
-            "owner": "tkareine",
-            "repo": "chnode",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rbenv",
-          "description": "A manager that focus on switching Ruby versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-14T14:02:43Z",
-            "owner": "rbenv",
-            "repo": "rbenv",
-            "stars": 16734
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rvm",
-          "description": "A tool that is loaded into the shell, overrides some commands and also manages gemsets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-29T21:43:33Z",
-            "owner": "rvm",
-            "repo": "rvm",
-            "stars": 5191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chruby",
-          "description": "A Ruby version switcher that allows for auto-switching, updates PATH and has around 100 lines of code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-10-27T05:38:57Z",
-            "owner": "postmodern",
-            "repo": "chruby",
-            "stars": 2912
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frum",
-          "description": "A fast and modern Ruby version manager written in Rust that is also cross-platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-05-13T14:49:42Z",
-            "owner": "TaKO8Ki",
-            "repo": "frum",
-            "stars": 655
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rbenv-win",
-          "description": "A porting of rbenv to Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VBScript",
-            "last_commit": "2022-09-18T18:10:41Z",
-            "owner": "nak1114",
-            "repo": "rbenv-win",
-            "stars": 105
-          }
-        }
-      ],
-      "title": "Ruby"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gvm",
-          "description": "An interface to manage Go versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-08-08T13:36:18Z",
-            "owner": "moovweb",
-            "repo": "gvm",
-            "stars": 11676
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "g",
-          "description": "A command-line tool for Linux, macOS, and Windows that provides convenient management and switching of multiple versions of the Go environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-02T23:57:04Z",
-            "owner": "voidint",
-            "repo": "g",
-            "stars": 2859
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "goenv",
-          "description": "Version manager like pyenv and rbenv, but for Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-14T14:24:49Z",
-            "owner": "go-nv",
-            "repo": "goenv",
-            "stars": 2535
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "g",
-          "description": "A simples Go version manager inspired by .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-26T22:10:08Z",
-            "owner": "stefanmaric",
-            "repo": "g",
-            "stars": 1078
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "goup",
-          "description": "An elegant version manager written in Go that is installed with a one-liner and that work well on all Linux distros.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-12-11T23:52:13Z",
-            "owner": "owenthereal",
-            "repo": "goup",
-            "stars": 603
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "jEnv",
-          "description": "A version switcher for Java that does not handle installation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-02-22T09:58:28Z",
-            "owner": "jenv",
-            "repo": "jenv",
-            "stars": 6653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jabba",
-          "description": "A cross-platform Java manager that allows for installation and switching of JDKs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-04T10:34:49Z",
-            "owner": "shyiko",
-            "repo": "jabba",
-            "stars": 3409
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jvms",
-          "description": "A JDK version manager for Windows made in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-23T07:15:40Z",
-            "owner": "ystyle",
-            "repo": "jvms",
-            "stars": 1022
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jenv",
-          "description": "A cross-platform tool for managing parallel Versions of JDKs which allows for installing, switching, removing and listing candidates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-03-31T21:34:22Z",
-            "owner": "linux-china",
-            "repo": "jenv",
-            "stars": 603
-          }
-        }
-      ],
-      "title": "Java"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "swiftenv",
-          "description": "A Swift manager that changes version per user, set a per-project version and allows you to override the version with an environmental variable.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-12-23T12:19:32Z",
-            "owner": "kylef",
-            "repo": "swiftenv",
-            "stars": 1990
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "swiftly",
-          "description": "A CLI tool for installing, managing, and switching between Swift toolchains, written in Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-13T19:12:33Z",
-            "owner": "swiftlang",
-            "repo": "swiftly",
-            "stars": 952
-          }
-        }
-      ],
-      "title": "Swift"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "phpbrew",
-          "description": "A utility that builds and installs multiple version of PHP in your HOME directory allowing of switching between them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2026-01-28T12:16:45Z",
-            "owner": "phpbrew",
-            "repo": "phpbrew",
-            "stars": 5525
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phpenv",
-          "description": "A version manager that operates binaries on the user directory and utilizes shims.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-30T21:45:31Z",
-            "owner": "phpenv",
-            "repo": "phpenv",
-            "stars": 1865
-          }
-        }
-      ],
-      "title": "PHP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "perlbrew",
-          "description": "A tool that manages multiple Perl environments and allows switching between them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-06-07T13:41:54Z",
-            "owner": "gugod",
-            "repo": "App-perlbrew",
-            "stars": 737
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "plenv",
-          "description": "A manager that installs multiple versions on the home directory, uses shims and allows to set local version per directory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-08-19T06:45:34Z",
-            "owner": "tokuhirom",
-            "repo": "plenv",
-            "stars": 537
-          }
-        }
-      ],
-      "title": "Perl"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "luaver",
-          "description": "A helper to manage and switch between different versions of Lua, LuaJIT and Luarocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-09-12T22:06:43Z",
-            "owner": "DhavalKapil",
-            "repo": "luaver",
-            "stars": 302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lenv",
-          "description": "A Lua version manager that allows installation and switching between multiple versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-14T10:32:04Z",
-            "owner": "mah0x211",
-            "repo": "lenv",
-            "stars": 45
-          }
-        }
-      ],
-      "title": "Lua"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kiex",
-          "description": "A utility that allows build and switch between different Elixir versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-13T16:59:13Z",
-            "owner": "taylor",
-            "repo": "kiex",
-            "stars": 794
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exenv",
-          "description": "A Elixir version manager based on rbenv.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-12-21T18:11:04Z",
-            "owner": "askagirl",
-            "repo": "exenv-1",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Elixir"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kerl",
-          "description": "A POSIX shell tool for building and installing Erlang/OTP instances allowing for easy switches between those installations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-06-19T17:26:34Z",
-            "owner": "kerl",
-            "repo": "kerl",
-            "stars": 1662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "evm",
-          "description": "A tool that allows you to install multiple versions of erlang on your system and switch between them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-05-20T18:25:02Z",
-            "owner": "robisonsantos",
-            "repo": "evm",
-            "stars": 117
-          }
-        }
-      ],
-      "title": "Erlang"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "juliavm",
-          "description": "A CLI tool which allows you to install, manage, and work with Julia environments and switch between them.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2021-02-20T22:12:08Z",
-            "owner": "pmargreff",
-            "repo": "juliavm",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jlenv",
-          "description": "A Julia version manager based on rbenv.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-10-28T05:11:48Z",
-            "owner": "HiroakiMikami",
-            "repo": "jlenv",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Julia"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tenv",
-          "description": "A versatile version manager for OpenTofu, Terraform and Terragrunt, written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T09:03:43Z",
-            "owner": "tofuutils",
-            "repo": "tenv",
-            "stars": 1430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tofuenv",
-          "description": "A OpenTofu version manager inspired by tfenv.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-02-10T00:33:55Z",
-            "owner": "tofuutils",
-            "repo": "tofuenv",
-            "stars": 235
-          }
-        }
-      ],
-      "title": "OpenTofu"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Xcodes.app",
-          "description": "An app that offers the easiest way to install and switch between multiple versions of Xcode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-08T03:51:59Z",
-            "owner": "XcodesOrg",
-            "repo": "XcodesApp",
-            "stars": 8493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xcodes",
-          "description": "A command-line tool to install and switch between multiple versions of Xcode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-08T04:01:23Z",
-            "owner": "XcodesOrg",
-            "repo": "xcodes",
-            "stars": 4753
-          }
-        }
-      ],
-      "title": "Xcode"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Godots",
-          "description": "An app that manages your Godot versions and projects with support for all platforms while also allowing for theming.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "GDScript",
-            "last_commit": "2026-06-06T11:43:58Z",
-            "owner": "MakovWait",
-            "repo": "godots",
-            "stars": 777
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Godot Manager",
-          "description": "An app made in C# that can manage the engine versions of Godot from the official Github repository, as well as getting updates from new releases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-03-31T01:54:37Z",
-            "owner": "eumario",
-            "repo": "godot-manager",
-            "stars": 415
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GVM",
-          "description": "A simple app that can install and remove any version of Godot, even the alpha, beta, rc and dev versions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "GDScript",
-            "last_commit": "2026-07-29T22:22:17Z",
-            "owner": "noidexe",
-            "repo": "godot-version-manager",
-            "stars": 230
-          }
-        }
-      ],
-      "title": "Godot"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zigup",
-          "description": "A Zig version manager made entirely with Zig.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2025-06-14T23:23:03Z",
-            "owner": "marler8997",
-            "repo": "zigup",
-            "stars": 1126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zvm",
-          "description": "A version manager made in Go that works on Linux, BSD, MacOS, *nix systems including Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T06:58:41Z",
-            "owner": "tristanisham",
-            "repo": "zvm",
-            "stars": 1044
-          }
-        }
-      ],
-      "title": "Zig"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dvm",
-          "description": "A small tool to install and manage DMD (self-hosting) compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2025-05-08T08:04:29Z",
-            "owner": "jacob-carlborg",
-            "repo": "dvm",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ldcup",
-          "description": "A small tool to install and manage LDC2 (LLVM backend) compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2026-06-22T01:12:57Z",
-            "owner": "kassane",
-            "repo": "ldcup",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "D"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:22:08.036Z",
+    "last_updated": "2026-08-19T07:22:51.317Z",
     "original_repository": "bernardoduarte/awesome-version-managers",
     "original_repository_sha": "c3916945a9cb00aa8c4660eb4267fbb99c358cbd",
     "enhanced_repository": "enhansome/enhansome-version-managers",
