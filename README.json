@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 586920414,
                 "language": "Rust",
-                "last_commit": "2026-08-19T03:42:15Z",
+                "last_commit": "2026-08-19T12:56:52Z",
                 "owner": "jdx",
                 "repo": "mise",
-                "stars": 32683
+                "stars": 32692
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-12T01:47:40Z",
                 "owner": "asdf-vm",
                 "repo": "asdf",
-                "stars": 25534
+                "stars": 25533
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-17T06:27:12Z",
                 "owner": "pkgxdev",
                 "repo": "pkgx",
-                "stars": 9902
+                "stars": 9903
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 15730865,
                 "language": "Python",
-                "last_commit": "2026-08-19T06:27:51Z",
+                "last_commit": "2026-08-19T12:25:32Z",
                 "owner": "spack",
                 "repo": "spack",
                 "stars": 5106
@@ -77,7 +77,7 @@
                 "last_commit": "2026-07-20T14:44:20Z",
                 "owner": "version-fox",
                 "repo": "vfox",
-                "stars": 3966
+                "stars": 3965
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 699532645,
                 "language": "Rust",
-                "last_commit": "2026-08-19T03:46:47Z",
+                "last_commit": "2026-08-19T12:56:11Z",
                 "owner": "astral-sh",
                 "repo": "uv",
-                "stars": 88864
+                "stars": 88873
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-16T22:51:28Z",
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45029
+                "stars": 45030
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-14T02:34:18Z",
                 "owner": "pyenv-win",
                 "repo": "pyenv-win",
-                "stars": 7369
+                "stars": 7370
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94647
+                "stars": 94654
               }
             },
             {
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 50565430,
                 "language": "Rust",
-                "last_commit": "2026-08-19T06:42:51Z",
+                "last_commit": "2026-08-19T12:37:58Z",
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36133
+                "stars": 36136
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-07-24T14:28:38Z",
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 26610
+                "stars": 26614
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2025-11-15T16:00:15Z",
                 "owner": "volta-cli",
                 "repo": "volta",
-                "stars": 13054
+                "stars": 13056
               }
             },
             {
@@ -570,7 +570,7 @@
                 "last_commit": "2026-05-26T22:10:08Z",
                 "owner": "stefanmaric",
                 "repo": "g",
-                "stars": 1078
+                "stars": 1079
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "last_commit": "2026-08-15T06:58:41Z",
                 "owner": "tristanisham",
                 "repo": "zvm",
-                "stars": 1044
+                "stars": 1045
               }
             }
           ],
@@ -1124,8 +1124,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:22:51.317Z",
+    "last_updated": "2026-08-19T12:57:33.975Z",
     "original_repository": "bernardoduarte/awesome-version-managers",
+    "original_repository_id": 245520958,
     "original_repository_sha": "c3916945a9cb00aa8c4660eb4267fbb99c358cbd",
     "enhanced_repository": "enhansome/enhansome-version-managers",
     "enhanced_repository_description": null,
