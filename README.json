@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 586920414,
                 "language": "Rust",
-                "last_commit": "2026-08-20T03:25:19Z",
+                "last_commit": "2026-08-21T07:25:34Z",
                 "owner": "jdx",
                 "repo": "mise",
-                "stars": 32727
+                "stars": 32773
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 15730865,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:05:26Z",
+                "last_commit": "2026-08-20T21:56:44Z",
                 "owner": "spack",
                 "repo": "spack",
                 "stars": 5108
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 729446906,
                 "language": "Go",
-                "last_commit": "2026-07-20T14:44:20Z",
+                "last_commit": "2026-08-21T06:47:55Z",
                 "owner": "version-fox",
                 "repo": "vfox",
                 "stars": 3966
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 399811207,
                 "language": "Go",
-                "last_commit": "2026-08-19T23:31:31Z",
+                "last_commit": "2026-08-21T00:57:56Z",
                 "owner": "aquaproj",
                 "repo": "aqua",
-                "stars": 1811
+                "stars": 1812
               }
             },
             {
@@ -119,10 +119,10 @@
                 "archived": false,
                 "id": 602787735,
                 "language": "Rust",
-                "last_commit": "2026-08-20T04:31:08Z",
+                "last_commit": "2026-08-20T22:46:58Z",
                 "owner": "moonrepo",
                 "repo": "proto",
-                "stars": 1395
+                "stars": 1396
               }
             },
             {
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 699532645,
                 "language": "Rust",
-                "last_commit": "2026-08-20T02:16:48Z",
+                "last_commit": "2026-08-21T00:28:40Z",
                 "owner": "astral-sh",
                 "repo": "uv",
-                "stars": 88903
+                "stars": 88925
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-16T22:51:28Z",
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45035
+                "stars": 45040
               }
             },
             {
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 167596974,
                 "language": "VBScript",
-                "last_commit": "2026-08-14T02:34:18Z",
+                "last_commit": "2026-08-21T01:50:03Z",
                 "owner": "pyenv-win",
                 "repo": "pyenv-win",
-                "stars": 7371
+                "stars": 7373
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94659
+                "stars": 94666
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-04-17T17:58:18Z",
                 "owner": "coreybutler",
                 "repo": "nvm-windows",
-                "stars": 47397
+                "stars": 47414
               }
             },
             {
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 50565430,
                 "language": "Rust",
-                "last_commit": "2026-08-20T06:45:13Z",
+                "last_commit": "2026-08-21T06:46:13Z",
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36144
+                "stars": 36158
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-07-24T14:28:38Z",
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 26626
+                "stars": 26638
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2025-11-15T16:00:15Z",
                 "owner": "volta-cli",
                 "repo": "volta",
-                "stars": 13057
+                "stars": 13056
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2022-03-19T04:27:49Z",
                 "owner": "hokaccha",
                 "repo": "nodebrew",
-                "stars": 1068
+                "stars": 1067
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16733
+                "stars": 16732
               }
             },
             {
@@ -540,7 +540,7 @@
                 "last_commit": "2026-07-02T23:57:04Z",
                 "owner": "voidint",
                 "repo": "g",
-                "stars": 2860
+                "stars": 2861
               }
             },
             {
@@ -552,10 +552,10 @@
                 "archived": false,
                 "id": 56429359,
                 "language": "Shell",
-                "last_commit": "2026-08-14T14:24:49Z",
+                "last_commit": "2026-08-20T12:49:07Z",
                 "owner": "go-nv",
                 "repo": "goenv",
-                "stars": 2536
+                "stars": 2537
               }
             },
             {
@@ -637,7 +637,7 @@
                 "last_commit": "2026-07-23T07:15:40Z",
                 "owner": "ystyle",
                 "repo": "jvms",
-                "stars": 1023
+                "stars": 1024
               }
             },
             {
@@ -686,10 +686,10 @@
                 "archived": false,
                 "id": 505560555,
                 "language": "Swift",
-                "last_commit": "2026-08-13T19:12:33Z",
+                "last_commit": "2026-08-20T20:17:04Z",
                 "owner": "swiftlang",
                 "repo": "swiftly",
-                "stars": 954
+                "stars": 956
               }
             }
           ],
@@ -859,7 +859,7 @@
                 "last_commit": "2025-06-19T17:26:34Z",
                 "owner": "kerl",
                 "repo": "kerl",
-                "stars": 1662
+                "stars": 1663
               }
             },
             {
@@ -930,7 +930,7 @@
                 "archived": false,
                 "id": 739378779,
                 "language": "Go",
-                "last_commit": "2026-08-18T09:50:34Z",
+                "last_commit": "2026-08-20T09:46:49Z",
                 "owner": "tofuutils",
                 "repo": "tenv",
                 "stars": 1430
@@ -970,7 +970,7 @@
                 "last_commit": "2026-07-08T03:51:59Z",
                 "owner": "XcodesOrg",
                 "repo": "XcodesApp",
-                "stars": 8494
+                "stars": 8493
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "last_commit": "2026-06-06T11:43:58Z",
                 "owner": "MakovWait",
                 "repo": "godots",
-                "stars": 778
+                "stars": 779
               }
             },
             {
@@ -1071,10 +1071,10 @@
                 "archived": false,
                 "id": 563690547,
                 "language": "Go",
-                "last_commit": "2026-08-20T07:07:21Z",
+                "last_commit": "2026-08-21T07:08:32Z",
                 "owner": "tristanisham",
                 "repo": "zvm",
-                "stars": 1045
+                "stars": 1047
               }
             }
           ],
@@ -1124,7 +1124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:25:03.838Z",
+    "last_updated": "2026-08-21T07:26:08.823Z",
     "original_repository": "bernardoduarte/awesome-version-managers",
     "original_repository_id": 245520958,
     "original_repository_sha": "c3916945a9cb00aa8c4660eb4267fbb99c358cbd",
