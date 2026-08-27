@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 586920414,
                 "language": "Rust",
-                "last_commit": "2026-08-27T12:00:52Z",
+                "last_commit": "2026-08-27T15:59:25Z",
                 "owner": "jdx",
                 "repo": "mise",
-                "stars": 33110
+                "stars": 33116
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 27291507,
                 "language": "Go",
-                "last_commit": "2026-08-12T01:47:40Z",
+                "last_commit": "2026-08-27T13:43:08Z",
                 "owner": "asdf-vm",
                 "repo": "asdf",
-                "stars": 25548
+                "stars": 25550
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 15730865,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:55:07Z",
+                "last_commit": "2026-08-27T16:05:57Z",
                 "owner": "spack",
                 "repo": "spack",
                 "stars": 5114
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 399811207,
                 "language": "Go",
-                "last_commit": "2026-08-27T05:42:23Z",
+                "last_commit": "2026-08-27T16:41:06Z",
                 "owner": "aquaproj",
                 "repo": "aqua",
                 "stars": 1820
@@ -171,10 +171,10 @@
                 "archived": false,
                 "id": 699532645,
                 "language": "Rust",
-                "last_commit": "2026-08-27T02:03:40Z",
+                "last_commit": "2026-08-27T17:50:25Z",
                 "owner": "astral-sh",
                 "repo": "uv",
-                "stars": 89144
+                "stars": 89161
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-26T13:05:19Z",
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45051
+                "stars": 45050
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94762
+                "stars": 94765
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-26T10:32:49Z",
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47483
+                "stars": 47484
               }
             },
             {
@@ -283,10 +283,10 @@
                 "archived": false,
                 "id": 50565430,
                 "language": "Rust",
-                "last_commit": "2026-08-27T12:01:32Z",
+                "last_commit": "2026-08-27T17:39:45Z",
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36240
+                "stars": 36250
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-07-24T14:28:38Z",
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 26710
+                "stars": 26713
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2025-11-15T16:00:15Z",
                 "owner": "volta-cli",
                 "repo": "volta",
-                "stars": 13063
+                "stars": 13062
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-08-07T17:57:57Z",
                 "owner": "jasongin",
                 "repo": "nvs",
-                "stars": 2962
+                "stars": 2961
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16732
+                "stars": 16733
               }
             },
             {
@@ -525,7 +525,7 @@
                 "last_commit": "2024-08-08T13:36:18Z",
                 "owner": "moovweb",
                 "repo": "gvm",
-                "stars": 11677
+                "stars": 11678
               }
             },
             {
@@ -540,7 +540,7 @@
                 "last_commit": "2026-07-02T23:57:04Z",
                 "owner": "voidint",
                 "repo": "g",
-                "stars": 2863
+                "stars": 2862
               }
             },
             {
@@ -629,7 +629,7 @@
                 "last_commit": "2026-02-22T09:58:28Z",
                 "owner": "jenv",
                 "repo": "jenv",
-                "stars": 6655
+                "stars": 6654
               }
             },
             {
@@ -644,7 +644,7 @@
                 "last_commit": "2026-05-04T10:34:49Z",
                 "owner": "shyiko",
                 "repo": "jabba",
-                "stars": 3409
+                "stars": 3408
               }
             },
             {
@@ -733,7 +733,7 @@
                 "last_commit": "2026-08-20T20:17:04Z",
                 "owner": "swiftlang",
                 "repo": "swiftly",
-                "stars": 954
+                "stars": 955
               }
             }
           ],
@@ -1139,7 +1139,7 @@
                 "last_commit": "2026-07-08T04:01:23Z",
                 "owner": "XcodesOrg",
                 "repo": "xcodes",
-                "stars": 4762
+                "stars": 4761
               }
             }
           ],
@@ -1291,7 +1291,7 @@
                 "archived": false,
                 "id": 563690547,
                 "language": "Go",
-                "last_commit": "2026-08-26T07:09:53Z",
+                "last_commit": "2026-08-27T17:39:05Z",
                 "owner": "tristanisham",
                 "repo": "zvm",
                 "stars": 1052
@@ -1316,7 +1316,7 @@
                 "last_commit": "2026-08-25T09:20:02Z",
                 "owner": "MordechaiHadad",
                 "repo": "bob",
-                "stars": 2141
+                "stars": 2142
               }
             }
           ],
@@ -1388,7 +1388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:01.369Z",
+    "last_updated": "2026-08-27T17:52:23.015Z",
     "original_repository_info": {
       "archived": false,
       "id": 245520958,
