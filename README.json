@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dev tools, env vars, task runner",
+                "homepage": "https://mise.jdx.dev",
                 "id": 586920414,
                 "language": "Rust",
-                "last_commit": "2026-08-28T18:05:07Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:29:50Z",
+                "open_issues": 65,
                 "owner": "jdx",
                 "repo": "mise",
-                "stars": 33179
+                "stars": 33186,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -28,12 +33,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+                "homepage": "https://asdf-vm.com/",
                 "id": 27291507,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:08:38Z",
+                "open_issues": 151,
                 "owner": "asdf-vm",
                 "repo": "asdf",
-                "stars": 25551
+                "stars": 25551,
+                "topics": [
+                  "asdf-vm",
+                  "bash",
+                  "cli",
+                  "elixir",
+                  "elvish",
+                  "erlang",
+                  "fish",
+                  "golang",
+                  "multiple-languages",
+                  "node",
+                  "nushell",
+                  "powershell",
+                  "python",
+                  "ruby",
+                  "shell",
+                  "version-manager",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -44,12 +72,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Anything",
+                "homepage": "https://pkgx.sh",
                 "id": 430183021,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T00:23:29Z",
+                "open_issues": 31,
                 "owner": "pkgxdev",
                 "repo": "pkgx",
-                "stars": 9902
+                "stars": 9902,
+                "topics": [
+                  "environment-manager",
+                  "package-manager",
+                  "package-runner"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -60,12 +97,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+                "homepage": "https://spack.io",
                 "id": 15730865,
                 "language": "Python",
-                "last_commit": "2026-08-28T17:38:36Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:58:29Z",
+                "open_issues": 1803,
                 "owner": "spack",
                 "repo": "spack",
-                "stars": 5115
+                "stars": 5116,
+                "topics": [
+                  "build-tools",
+                  "hpc",
+                  "hpsf",
+                  "linux",
+                  "macos",
+                  "package-manager",
+                  "python",
+                  "radiuss",
+                  "scientific-computing",
+                  "spack",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -76,12 +130,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more",
+                "homepage": "https://vfox.dev",
                 "id": 729446906,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T06:47:55Z",
+                "open_issues": 90,
                 "owner": "version-fox",
                 "repo": "vfox",
-                "stars": 3973
+                "stars": 3973,
+                "topics": [
+                  "asdf",
+                  "bash",
+                  "cli",
+                  "cmd",
+                  "cross-platform",
+                  "development-tools",
+                  "golang",
+                  "linux",
+                  "lua",
+                  "macos",
+                  "nodejs",
+                  "plugin-manager",
+                  "powershell",
+                  "sdk",
+                  "tools",
+                  "version-manager",
+                  "windows",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -92,12 +170,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All in one for **env",
+                "homepage": "https://anyenv.github.io",
                 "id": 10616498,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-12-16T04:48:42Z",
+                "open_issues": 10,
                 "owner": "anyenv",
                 "repo": "anyenv",
-                "stars": 1851
+                "stars": 1851,
+                "topics": [
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -108,12 +193,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
+                "homepage": "https://aquaproj.github.io",
                 "id": 399811207,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:00:49Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:27:34Z",
+                "open_issues": 178,
                 "owner": "aquaproj",
                 "repo": "aqua",
-                "stars": 1822
+                "stars": 1824,
+                "topics": [
+                  "cli",
+                  "oss",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -124,12 +218,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pluggable multi-language version manager.",
+                "homepage": "https://moonrepo.dev/proto",
                 "id": 602787735,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:32:06Z",
+                "open_issues": 24,
                 "owner": "moonrepo",
                 "repo": "proto",
-                "stars": 1403
+                "stars": 1404,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "golang",
+                  "nodejs",
+                  "toolchain",
+                  "toolchain-manager",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -140,12 +247,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs. ",
+                "homepage": "http://vdocs.vmr.dpdns.org",
                 "id": 765134352,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-08-12T15:32:25Z",
+                "open_issues": 26,
                 "owner": "gvcgo",
                 "repo": "version-manager",
-                "stars": 1339
+                "stars": 1339,
+                "topics": [
+                  "asdf-vm",
+                  "conda",
+                  "cross-platform",
+                  "fnm",
+                  "go",
+                  "golang",
+                  "languages",
+                  "lazygit",
+                  "linux",
+                  "macos",
+                  "nvm",
+                  "programming",
+                  "sdk",
+                  "version-management",
+                  "version-manager",
+                  "versions",
+                  "vmr",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -156,12 +287,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The version manager to end all version managers.",
+                "homepage": "https://version-manager.github.io/woof",
                 "id": 420489337,
                 "language": "Shell",
+                "license": "MPL-2.0",
                 "last_commit": "2026-04-10T07:47:31Z",
+                "open_issues": 16,
                 "owner": "version-manager",
                 "repo": "woof",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "asdf",
+                  "basalt",
+                  "bash",
+                  "sdkman",
+                  "shell",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -179,12 +322,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extremely fast Python package and project manager, written in Rust.",
+                "homepage": "https://docs.astral.sh/uv",
                 "id": 699532645,
                 "language": "Rust",
-                "last_commit": "2026-08-28T18:57:55Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:34:33Z",
+                "open_issues": 2865,
                 "owner": "astral-sh",
                 "repo": "uv",
-                "stars": 89194
+                "stars": 89202,
+                "topics": [
+                  "packaging",
+                  "python",
+                  "resolver",
+                  "uv"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -195,12 +348,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Python version management",
+                "homepage": null,
                 "id": 5625464,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:36:28Z",
+                "open_issues": 54,
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45053
+                "stars": 45056,
+                "topics": [
+                  "python",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -211,12 +372,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.",
+                "homepage": "https://pyenv-win.github.io/pyenv-win",
                 "id": 167596974,
                 "language": "VBScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:12:06Z",
+                "open_issues": 169,
                 "owner": "pyenv-win",
                 "repo": "pyenv-win",
-                "stars": 7385
+                "stars": 7386,
+                "topics": [
+                  "pyenv",
+                  "pyenv-alternative",
+                  "pyenv-for-windows",
+                  "pyenv-win",
+                  "pyenv-windows",
+                  "python",
+                  "python-version-management",
+                  "windows-pyenv",
+                  "windows-python"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -227,12 +403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An installation and dependency system for Python",
+                "homepage": null,
                 "id": 196969828,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-03-21T20:37:57Z",
+                "open_issues": 62,
                 "owner": "David-OConnor",
                 "repo": "pyflow",
-                "stars": 1339
+                "stars": 1339,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -243,12 +424,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python installation manager supporting CPython, Stackless, PyPy and Jython",
+                "homepage": " http://saghul.github.io/pythonz",
                 "id": 3885342,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-14T15:21:35Z",
+                "open_issues": 21,
                 "owner": "saghul",
                 "repo": "pythonz",
-                "stars": 753
+                "stars": 753,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -266,12 +452,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+                "homepage": null,
                 "id": 612230,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-18T06:42:47Z",
+                "open_issues": 396,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94770
+                "stars": 94771,
+                "topics": [
+                  "bash",
+                  "install",
+                  "lts",
+                  "node",
+                  "node-js",
+                  "nodejs",
+                  "nvm",
+                  "nvmrc",
+                  "posix",
+                  "posix-compliant",
+                  "shell",
+                  "version-manager",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -282,12 +487,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Node.js version manager for Windows.",
+                "homepage": null,
                 "id": 24268127,
                 "language": "Go",
-                "last_commit": "2026-08-26T10:32:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:41:53Z",
+                "open_issues": 81,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47497
+                "stars": 47499,
+                "topics": [
+                  "install",
+                  "node",
+                  "node-js",
+                  "nodejs",
+                  "nvm",
+                  "version-manager",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -298,12 +516,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, disk space efficient package manager",
+                "homepage": "https://pnpm.io",
                 "id": 50565430,
                 "language": "Rust",
-                "last_commit": "2026-08-28T15:54:38Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:25:04Z",
+                "open_issues": 2508,
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36289
+                "stars": 36296,
+                "topics": [
+                  "dependency-manager",
+                  "install",
+                  "javascript",
+                  "modules",
+                  "node",
+                  "nodejs",
+                  "npm",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -314,12 +546,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+                "homepage": "https://fnm.vercel.app",
                 "id": 166045424,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T14:28:38Z",
+                "open_issues": 241,
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 26724
+                "stars": 26725,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "nodejs",
+                  "nvm",
+                  "reasonml",
+                  "version"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -330,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node version management",
+                "homepage": null,
                 "id": 1223029,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:00:28Z",
+                "open_issues": 5,
                 "owner": "tj",
                 "repo": "n",
-                "stars": 19510
+                "stars": 19511,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -346,12 +595,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Volta: JS Toolchains as Code. ⚡",
+                "homepage": "https://volta.sh",
                 "id": 104796770,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-15T16:00:15Z",
+                "open_issues": 341,
                 "owner": "volta-cli",
                 "repo": "volta",
-                "stars": 13061
+                "stars": 13059,
+                "topics": [
+                  "node",
+                  "nodejs",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -362,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js",
+                "homepage": null,
                 "id": 70508053,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-07T17:57:57Z",
+                "open_issues": 94,
                 "owner": "jasongin",
                 "repo": "nvs",
-                "stars": 2961
+                "stars": 2961,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -378,12 +641,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage your app's Node.js environment",
+                "homepage": null,
                 "id": 8685986,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T03:08:50Z",
+                "open_issues": 10,
                 "owner": "nodenv",
                 "repo": "nodenv",
-                "stars": 2414
+                "stars": 2414,
+                "topics": [
+                  "node",
+                  "nodejs",
+                  "nodenv",
+                  "shell",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -394,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js version manager",
+                "homepage": null,
                 "id": 2776765,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2022-03-19T04:27:49Z",
+                "open_issues": 17,
                 "owner": "hokaccha",
                 "repo": "nodebrew",
-                "stars": 1067
+                "stars": 1067,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -410,12 +689,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run any command on specific Node.js versions",
+                "homepage": null,
                 "id": 201104057,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T15:58:42Z",
+                "open_issues": 0,
                 "owner": "ehmicky",
                 "repo": "nve",
-                "stars": 711
+                "stars": 711,
+                "topics": [
+                  "bash",
+                  "cli",
+                  "command-line",
+                  "dependency-management",
+                  "es6",
+                  "exec",
+                  "javascript",
+                  "library",
+                  "node",
+                  "nodejs",
+                  "npmjs",
+                  "npx",
+                  "nvm",
+                  "operating-system",
+                  "package-manager",
+                  "server",
+                  "shell",
+                  "terminal",
+                  "versioning",
+                  "versions"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -426,12 +731,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A cross-platform node version manager that doesn't suck as much",
+                "homepage": null,
                 "id": 284156844,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-12T00:26:08Z",
+                "open_issues": 2,
                 "owner": "beeequeue",
                 "repo": "nvm-rust",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "node",
+                  "nvm",
+                  "rust",
+                  "version-manager",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -442,12 +761,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Changes shell's current Node.js version by updating $PATH",
+                "homepage": null,
                 "id": 150030497,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-04T18:38:51Z",
+                "open_issues": 0,
                 "owner": "tkareine",
                 "repo": "chnode",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "bash",
+                  "chnode",
+                  "homebrew-tap",
+                  "minimalist",
+                  "node-version-manager",
+                  "nodejs",
+                  "shell",
+                  "version-manager",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -465,12 +799,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage your app's Ruby environment",
+                "homepage": "https://rbenv.org/",
                 "id": 2139017,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-14T14:02:43Z",
+                "open_issues": 15,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16732
+                "stars": 16732,
+                "topics": [
+                  "bash",
+                  "ruby",
+                  "ruby-installation",
+                  "ruby-versions",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -481,12 +826,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby enVironment Manager (RVM)",
+                "homepage": "https://rvm.io",
                 "id": 286066,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-29T21:43:33Z",
+                "open_issues": 558,
                 "owner": "rvm",
                 "repo": "rvm",
-                "stars": 5191
+                "stars": 5191,
+                "topics": [
+                  "jruby",
+                  "mri-ruby",
+                  "mruby",
+                  "rbx",
+                  "rubinius",
+                  "ruby",
+                  "ruby-environment",
+                  "ruby-versions",
+                  "rvm",
+                  "truffleruby"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -497,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Changes the current Ruby",
+                "homepage": null,
                 "id": 5266284,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-10-27T05:38:57Z",
+                "open_issues": 99,
                 "owner": "postmodern",
                 "repo": "chruby",
-                "stars": 2912
+                "stars": 2912,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -513,12 +879,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A little bit fast and modern Ruby version manager written in Rust",
+                "homepage": null,
                 "id": 345714504,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-05-13T14:49:42Z",
+                "open_issues": 36,
                 "owner": "TaKO8Ki",
                 "repo": "frum",
-                "stars": 656
+                "stars": 656,
+                "topics": [
+                  "farm",
+                  "rbenv",
+                  "ruby",
+                  "rust",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -529,12 +906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rbenv for Windows",
+                "homepage": null,
                 "id": 54304590,
                 "language": "VBScript",
+                "license": "MIT",
                 "last_commit": "2022-09-18T18:10:41Z",
+                "open_issues": 16,
                 "owner": "nak1114",
                 "repo": "rbenv-win",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -552,12 +934,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Version Manager",
+                "homepage": "http://github.com/moovweb/gvm",
                 "id": 2902935,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-08-08T13:36:18Z",
+                "open_issues": 242,
                 "owner": "moovweb",
                 "repo": "gvm",
-                "stars": 11678
+                "stars": 11678,
+                "topics": [
+                  "dependency-manager",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -568,12 +958,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang Version Manager",
+                "homepage": "https://pkg.go.dev/github.com/voidint/g",
                 "id": 183450906,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-02T23:57:04Z",
+                "open_issues": 17,
                 "owner": "voidint",
                 "repo": "g",
-                "stars": 2862
+                "stars": 2862,
+                "topics": [
+                  "golang",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -584,12 +982,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":blue_car: Like pyenv and rbenv, but for Go.",
+                "homepage": "https://github.com/go-nv/goenv",
                 "id": 56429359,
                 "language": "Shell",
-                "last_commit": "2026-08-20T12:49:07Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:33:43Z",
+                "open_issues": 21,
                 "owner": "go-nv",
                 "repo": "goenv",
-                "stars": 2540
+                "stars": 2540,
+                "topics": [
+                  "bash",
+                  "go",
+                  "goenv",
+                  "golang",
+                  "homebrew",
+                  "pyenv",
+                  "rbenv",
+                  "shims-goenv",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -600,12 +1013,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple go version manager, gluten-free",
+                "homepage": null,
                 "id": 128644798,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-05-26T22:10:08Z",
+                "open_issues": 3,
                 "owner": "stefanmaric",
                 "repo": "g",
-                "stars": 1081
+                "stars": 1081,
+                "topics": [
+                  "bash",
+                  "cli",
+                  "dependency-manager",
+                  "environment",
+                  "fish",
+                  "gluten-free",
+                  "go",
+                  "golang",
+                  "installer",
+                  "linux",
+                  "macos",
+                  "portable",
+                  "version-manager",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -616,12 +1049,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elegant Go installer",
+                "homepage": "https://owenou.com/goup",
                 "id": 299215896,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-11T23:52:13Z",
+                "open_issues": 14,
                 "owner": "owenthereal",
                 "repo": "goup",
-                "stars": 602
+                "stars": 602,
+                "topics": [
+                  "golang",
+                  "installer",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -639,12 +1081,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Rust toolchain installer",
+                "homepage": "https://rustup.rs/",
                 "id": 43192623,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:27:15Z",
+                "open_issues": 431,
                 "owner": "rust-lang",
                 "repo": "rustup",
-                "stars": 7029
+                "stars": 7029,
+                "topics": [
+                  "hacktoberfest",
+                  "rust",
+                  "rustlang",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -662,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage your Java environment ",
+                "homepage": "http://www.jenv.be",
                 "id": 7808903,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-02-22T09:58:28Z",
+                "open_issues": 80,
                 "owner": "jenv",
                 "repo": "jenv",
-                "stars": 6654
+                "stars": 6653,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -678,12 +1135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(cross-platform) Java Version Manager",
+                "homepage": null,
                 "id": 54615819,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-05-04T10:34:49Z",
+                "open_issues": 149,
                 "owner": "shyiko",
                 "repo": "jabba",
-                "stars": 3409
+                "stars": 3409,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -694,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JDK Version Manager (JVMS) for Windows",
+                "homepage": null,
                 "id": 45619409,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-23T07:15:40Z",
+                "open_issues": 17,
                 "owner": "ystyle",
                 "repo": "jvms",
-                "stars": 1025
+                "stars": 1025,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -710,12 +1177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java enVironment Manager  ",
+                "homepage": "http://jenv.io",
                 "id": 8085806,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-31T21:34:22Z",
+                "open_issues": 28,
                 "owner": "linux-china",
                 "repo": "jenv",
-                "stars": 603
+                "stars": 603,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -733,12 +1205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SDKMAN! Command Line Interface",
+                "homepage": "https://sdkman.io",
                 "id": 5573275,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T20:24:55Z",
+                "open_issues": 101,
                 "owner": "sdkman",
                 "repo": "sdkman-cli",
-                "stars": 6836
+                "stars": 6836,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -756,12 +1233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift Version Manager",
+                "homepage": "https://swiftenv.fuller.li/",
                 "id": 48044015,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-12-23T12:19:32Z",
+                "open_issues": 13,
                 "owner": "kylef",
                 "repo": "swiftenv",
-                "stars": 1989
+                "stars": 1989,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -772,12 +1254,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift toolchain installer and manager, written in Swift.",
+                "homepage": "https://swift.org/swiftly",
                 "id": 505560555,
                 "language": "Swift",
-                "last_commit": "2026-08-20T20:17:04Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:16:29Z",
+                "open_issues": 139,
                 "owner": "swiftlang",
                 "repo": "swiftly",
-                "stars": 955
+                "stars": 955,
+                "topics": [
+                  "swift",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -795,12 +1285,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brew & manage PHP versions in pure PHP at HOME",
+                "homepage": "https://phpbrew.github.io/phpbrew",
                 "id": 2468290,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2026-01-28T12:16:45Z",
+                "open_issues": 100,
                 "owner": "phpbrew",
                 "repo": "phpbrew",
-                "stars": 5525
+                "stars": 5525,
+                "topics": [
+                  "php-versions",
+                  "phpbrew"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -811,12 +1309,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple PHP version management",
+                "homepage": null,
                 "id": 4140723,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-30T21:45:31Z",
+                "open_issues": 11,
                 "owner": "phpenv",
                 "repo": "phpenv",
-                "stars": 1865
+                "stars": 1865,
+                "topics": [
+                  "hacktoberfest",
+                  "php",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -834,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage perl installations in your $HOME",
+                "homepage": "https://perlbrew.pl",
                 "id": 538431,
                 "language": "Perl",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-07T13:41:54Z",
+                "open_issues": 199,
                 "owner": "gugod",
                 "repo": "App-perlbrew",
-                "stars": 737
+                "stars": 737,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -850,12 +1362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perl binary manager",
+                "homepage": null,
                 "id": 571655,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-19T06:45:34Z",
+                "open_issues": 31,
                 "owner": "tokuhirom",
                 "repo": "plenv",
-                "stars": 537
+                "stars": 537,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -873,12 +1390,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua Version Manager - Managing and switching between different versions of Lua, LuaJIT and Luarocks made easy",
+                "homepage": "https://dhavalkapil.com/luaver",
                 "id": 58576657,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-09-12T22:06:43Z",
+                "open_issues": 26,
                 "owner": "DhavalKapil",
                 "repo": "luaver",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "lua",
+                  "luajit",
+                  "luarocks",
+                  "version"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -889,12 +1416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua Version Manager",
+                "homepage": null,
                 "id": 35328635,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-04-14T10:32:04Z",
+                "open_issues": 1,
                 "owner": "mah0x211",
                 "repo": "lenv",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -912,12 +1444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir version manager",
+                "homepage": "http://taylor.github.io/kiex/",
                 "id": 15460812,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-03-13T16:59:13Z",
+                "open_issues": 20,
                 "owner": "taylor",
                 "repo": "kiex",
-                "stars": 794
+                "stars": 794,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -928,12 +1465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir version manager",
+                "homepage": null,
                 "id": 174451562,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2018-12-21T18:11:04Z",
+                "open_issues": 0,
                 "owner": "askagirl",
                 "repo": "exenv-1",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -951,12 +1493,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy building and installing of Erlang/OTP instances",
+                "homepage": null,
                 "id": 2000878,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-19T17:26:34Z",
+                "open_issues": 18,
                 "owner": "kerl",
                 "repo": "kerl",
-                "stars": 1664
+                "stars": 1664,
+                "topics": [
+                  "erlang",
+                  "homebrew",
+                  "kerl",
+                  "otp-release",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -967,12 +1520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Erlang Version Manager",
+                "homepage": null,
                 "id": 4597406,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-05-20T18:25:02Z",
+                "open_issues": 5,
                 "owner": "robisonsantos",
                 "repo": "evm",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -990,12 +1548,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Julia Version Manager - Simple bash script to manage multiple julia environments",
+                "homepage": null,
                 "id": 79514103,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2021-02-20T22:12:08Z",
+                "open_issues": 1,
                 "owner": "pmargreff",
                 "repo": "juliavm",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "julia",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -1006,12 +1572,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Julia version management (Julia version of rbenv and pyenv)",
+                "homepage": null,
                 "id": 106077560,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2018-10-28T05:11:48Z",
+                "open_issues": 2,
                 "owner": "HiroakiMikami",
                 "repo": "jlenv",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "julia",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1029,12 +1603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":gem: Crystal version manager like rbenv.",
+                "homepage": "http://crystal-lang.org/",
                 "id": 38120771,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-12T14:50:27Z",
+                "open_issues": 6,
                 "owner": "crenv",
                 "repo": "crenv",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1052,12 +1631,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flutter Version Management: A simple CLI to manage Flutter SDK versions.",
+                "homepage": "https://leoafarias.github.io/fvm/",
                 "id": 172011048,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:36:27Z",
+                "open_issues": 56,
                 "owner": "leoafarias",
                 "repo": "fvm",
-                "stars": 5506
+                "stars": 5506,
+                "topics": [
+                  "cli",
+                  "dart",
+                  "flutter",
+                  "flutter-releases",
+                  "flutter-sdk-versions",
+                  "fvm",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1075,12 +1667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scala Version Manager ( svm ) ",
+                "homepage": "http://d.hatena.ne.jp/yuroyoro/20110121/1295610398",
                 "id": 1278147,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-10T07:53:08Z",
+                "open_issues": 3,
                 "owner": "yuroyoro",
                 "repo": "svm",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1098,12 +1695,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform version manager",
+                "homepage": null,
                 "id": 64857500,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-01T17:32:52Z",
+                "open_issues": 32,
                 "owner": "tfutils",
                 "repo": "tfenv",
-                "stars": 4966
+                "stars": 4966,
+                "topics": [
+                  "bash",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1121,12 +1726,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager",
+                "homepage": "https://tofuutils.github.io/tenv/",
                 "id": 739378779,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T09:46:49Z",
+                "open_issues": 45,
                 "owner": "tofuutils",
                 "repo": "tenv",
-                "stars": 1429
+                "stars": 1429,
+                "topics": [
+                  "go",
+                  "hacktoberfest",
+                  "hacktoberfest2024",
+                  "hacktoberfest2025",
+                  "hashicorp",
+                  "hashicorp-terraform",
+                  "iac",
+                  "opentofu",
+                  "tenv",
+                  "terraform",
+                  "tfenv",
+                  "tofu",
+                  "tofuenv",
+                  "up-for-grabs"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -1137,12 +1762,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTofu version manager",
+                "homepage": "https://tofuutils.github.io/tofuenv/",
                 "id": 736036811,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-02-10T00:33:55Z",
+                "open_issues": 21,
                 "owner": "tofuutils",
                 "repo": "tofuenv",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "bash",
+                  "hacktoberfest",
+                  "hacktoberfest2024",
+                  "hacktoberfest2025",
+                  "hashicorp",
+                  "hashicorp-terraform",
+                  "iac",
+                  "opentofu",
+                  "tenv",
+                  "terraform",
+                  "tfenv",
+                  "tofuenv"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1160,12 +1803,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solidity-Compiler Version Manager",
+                "homepage": null,
                 "id": 405391042,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T11:39:34Z",
+                "open_issues": 8,
                 "owner": "alloy-rs",
                 "repo": "svm-rs",
-                "stars": 288
+                "stars": 288,
+                "topics": [
+                  "solidity",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1183,12 +1834,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest way to install and switch between multiple versions of Xcode - with a mouse click. ",
+                "homepage": "https://xcodes.app",
                 "id": 315822591,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-08T03:51:59Z",
+                "open_issues": 223,
                 "owner": "XcodesOrg",
                 "repo": "XcodesApp",
-                "stars": 8502
+                "stars": 8503,
+                "topics": [
+                  "combine",
+                  "hacktoberfest",
+                  "macos",
+                  "swift",
+                  "swiftui",
+                  "xcode",
+                  "xcode-releases"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -1199,12 +1863,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best command-line tool to install and switch between multiple versions of Xcode.",
+                "homepage": null,
                 "id": 171964196,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-08T04:01:23Z",
+                "open_issues": 172,
                 "owner": "XcodesOrg",
                 "repo": "xcodes",
-                "stars": 4761
+                "stars": 4761,
+                "topics": [
+                  "hacktoberfest",
+                  "macos",
+                  "swift",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1222,12 +1896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quick and easy way to manage installed cmake versions.",
+                "homepage": null,
                 "id": 371853722,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-11-22T15:34:18Z",
+                "open_issues": 0,
                 "owner": "ParagonPawns",
                 "repo": "cmake-version-manager",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1245,12 +1924,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A commandline application to manage unity versions",
+                "homepage": null,
                 "id": 124253722,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-28T11:01:39Z",
+                "open_issues": 18,
                 "owner": "Larusso",
                 "repo": "unity-version-manager",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "cli",
+                  "unity",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1268,12 +1956,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultimate go-to hub for managing your Godot versions and projects!",
+                "homepage": null,
                 "id": 661360739,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2026-06-06T11:43:58Z",
+                "open_issues": 53,
                 "owner": "MakovWait",
                 "repo": "godots",
-                "stars": 785
+                "stars": 785,
+                "topics": [
+                  "gdscript",
+                  "godot",
+                  "godot-engine",
+                  "godot-engine-4",
+                  "godot4"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -1284,12 +1983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Project, Version and Addons/Plugins manager for Godot Game Engine.",
+                "homepage": null,
                 "id": 434821926,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-31T01:54:37Z",
+                "open_issues": 25,
                 "owner": "eumario",
                 "repo": "godot-manager",
-                "stars": 415
+                "stars": 415,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -1300,12 +2004,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download, Install and Manage any version of Godot Engine from a simple app. ",
+                "homepage": null,
                 "id": 420323668,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2026-07-29T22:22:17Z",
+                "open_issues": 11,
                 "owner": "noidexe",
                 "repo": "godot-version-manager",
-                "stars": 229
+                "stars": 229,
+                "topics": [
+                  "game-development",
+                  "godot"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1323,12 +2035,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The R Installation Manager",
+                "homepage": "http://rig.r-lib.org/",
                 "id": 426215921,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-23T13:55:20Z",
+                "open_issues": 68,
                 "owner": "r-lib",
                 "repo": "rig",
-                "stars": 983
+                "stars": 983,
+                "topics": [
+                  "installation",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1346,12 +2066,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download and manage zig compilers.",
+                "homepage": null,
                 "id": 268129020,
                 "language": "Zig",
+                "license": "MIT-0",
                 "last_commit": "2025-06-14T23:23:03Z",
+                "open_issues": 54,
                 "owner": "marler8997",
                 "repo": "zigup",
-                "stars": 1126
+                "stars": 1126,
+                "topics": [
+                  "zig",
+                  "zig-compilers"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -1362,12 +2090,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "zvm (Zig Version Manager) lets you easily install/upgrade between different versions of Zig.",
+                "homepage": "https://www.zvm.app",
                 "id": 563690547,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:39:05Z",
+                "open_issues": 2,
                 "owner": "tristanisham",
                 "repo": "zvm",
-                "stars": 1052
+                "stars": 1052,
+                "topics": [
+                  "version-control",
+                  "version-manager",
+                  "versioning",
+                  "zig",
+                  "ziglang"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1385,12 +2124,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A version manager for neovim",
+                "homepage": null,
                 "id": 456199616,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:03:59Z",
+                "open_issues": 18,
                 "owner": "MordechaiHadad",
                 "repo": "bob",
-                "stars": 2142
+                "stars": 2142,
+                "topics": [
+                  "command-line",
+                  "hacktoberfest",
+                  "neovim",
+                  "neovim-version-manager",
+                  "rust",
+                  "tool",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1408,12 +2160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Lean version manager",
+                "homepage": null,
                 "id": 128052474,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T10:54:39Z",
+                "open_issues": 30,
                 "owner": "leanprover",
                 "repo": "elan",
-                "stars": 606
+                "stars": 606,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1431,12 +2188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to install and manage D compilers",
+                "homepage": null,
                 "id": 3272778,
                 "language": "D",
+                "license": null,
                 "last_commit": "2025-05-08T08:04:29Z",
+                "open_issues": 24,
                 "owner": "jacob-carlborg",
                 "repo": "dvm",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             },
@@ -1447,12 +2209,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download and manage L(D)C2 compiler.",
+                "homepage": "http://ldcup.dub.pm/",
                 "id": 905335988,
                 "language": "D",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T01:12:57Z",
+                "open_issues": 1,
                 "owner": "kassane",
                 "repo": "ldcup",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "d",
+                  "dlang",
+                  "ldc2",
+                  "ldc2-toolchain",
+                  "opendlang",
+                  "version-manager"
+                ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
             }
@@ -1466,15 +2240,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:58:21.130Z",
+    "last_updated": "2026-08-29T04:43:41.992Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Version Managers",
+      "homepage": null,
       "id": 245520958,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-01-07T23:46:47Z",
+      "open_issues": 2,
       "owner": "bernardoduarte",
       "repo": "awesome-version-managers",
-      "stars": 406
+      "stars": 406,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "version-manager"
+      ]
     },
     "original_repository_sha": "c3916945a9cb00aa8c4660eb4267fbb99c358cbd",
     "enhanced_repository": "enhansome/enhansome-version-managers",
