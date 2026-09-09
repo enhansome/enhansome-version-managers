@@ -40,33 +40,33 @@
 
 ### Generic
 
-* [mise](https://github.com/jdx/mise) ⭐ 33,640 | 🐛 64 | 🌐 Rust | 📅 2026-09-08 - An `asdf` drop-in replacement written in Rust.
-* [asdf-vm](https://github.com/asdf-vm/asdf) ⭐ 25,569 | 🐛 144 | 🌐 Go | 📅 2026-09-03 - An extendable version manager using a plugin structure to handle new version managers.
-* [pkgx](https://github.com/pkgxdev/pkgx) ⭐ 9,915 | 🐛 32 | 🌐 Rust | 📅 2026-09-07 - A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.
-* [spack](https://github.com/spack/spack) ⭐ 5,119 | 🐛 1,808 | 🌐 Python | 📅 2026-09-08 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+* [mise](https://github.com/jdx/mise) ⭐ 33,693 | 🐛 61 | 🌐 Rust | 📅 2026-09-09 - An `asdf` drop-in replacement written in Rust.
+* [asdf-vm](https://github.com/asdf-vm/asdf) ⭐ 25,571 | 🐛 144 | 🌐 Go | 📅 2026-09-03 - An extendable version manager using a plugin structure to handle new version managers.
+* [pkgx](https://github.com/pkgxdev/pkgx) ⭐ 9,916 | 🐛 32 | 🌐 Rust | 📅 2026-09-07 - A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.
+* [spack](https://github.com/spack/spack) ⭐ 5,121 | 🐛 1,803 | 🌐 Python | 📅 2026-09-09 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * [vfox](https://github.com/version-fox/vfox) ⭐ 3,979 | 🐛 74 | 🌐 Go | 📅 2026-09-07 - A cross-platform, extensible version manager. It supports native Windows and Unix-like.
 * [anyenv](https://github.com/anyenv/anyenv) ⭐ 1,849 | 🐛 10 | 🌐 Shell | 📅 2023-12-16 - A version manager wrapper allowing maintenance of multiple version managers.
-* [aqua](https://github.com/aquaproj/aqua) ⭐ 1,840 | 🐛 175 | 🌐 Go | 📅 2026-09-08 - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.
+* [aqua](https://github.com/aquaproj/aqua) ⭐ 1,839 | 🐛 181 | 🌐 Go | 📅 2026-09-09 - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.
 * [proto](https://github.com/moonrepo/proto) ⭐ 1,408 | 🐛 22 | 🌐 Rust | 📅 2026-09-08 - A pluggable next-generation version manager for multiple programming languages as unified toolchain.
 * [vmr](https://github.com/gvcgo/version-manager) ⭐ 1,340 | 🐛 26 | 🌐 Go | 📅 2026-09-04 - A simple, cross-platform, and well-tested version manager for programming languages and tools.
 * [woof](https://github.com/version-manager/woof) ⭐ 31 | 🐛 16 | 🌐 Shell | 📅 2026-04-10 - A Bash-based version manager with plugin support optimized for UX
 
 ### Python
 
-* [uv](https://github.com/astral-sh/uv) ⭐ 89,627 | 🐛 2,884 | 🌐 Rust | 📅 2026-09-08 - An extremely fast Python package and project manager, written in Rust.
-* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,082 | 🐛 56 | 🌐 Shell | 📅 2026-09-06 - A tool that allows you to switch between multiple versions of Python.
-* [pyenv-win](https://github.com/pyenv-win/pyenv-win) ⭐ 7,395 | 🐛 168 | 🌐 VBScript | 📅 2026-09-04 - A porting of pyenv for Windows.
+* [uv](https://github.com/astral-sh/uv) ⭐ 89,651 | 🐛 2,876 | 🌐 Rust | 📅 2026-09-09 - An extremely fast Python package and project manager, written in Rust.
+* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,089 | 🐛 54 | 🌐 Shell | 📅 2026-09-08 - A tool that allows you to switch between multiple versions of Python.
+* [pyenv-win](https://github.com/pyenv-win/pyenv-win) ⭐ 7,394 | 🐛 168 | 🌐 VBScript | 📅 2026-09-04 - A porting of pyenv for Windows.
 * [pyflow](https://github.com/David-OConnor/pyflow) ⭐ 1,339 | 🐛 62 | 🌐 Rust | 📅 2026-03-21 - A multipurpose Python environment manager.
 * [pythonz](https://github.com/saghul/pythonz) ⚠️ Archived - A program to automate the building and installation of Python versions.
 
 ### Node.js
 
-* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,022 | 🐛 391 | 🌐 Shell | 📅 2026-09-04 - A version manager for Node.js, designed to be installed per user, and invoked per shell.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,599 | 🐛 5 | 🌐 Inno Setup | 📅 2026-09-08 - Same of nvm, but for Windows.
-* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,460 | 🐛 2,524 | 🌐 Rust | 📅 2026-09-08 - A fast and disk space efficient package manager that can also manage Node.js versions via it's env command.
-* [fnm](https://github.com/Schniz/fnm) ⭐ 26,810 | 🐛 243 | 🌐 Rust | 📅 2026-07-24 - Fast and simple Node.js version manager built in Rust
+* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,051 | 🐛 386 | 🌐 Shell | 📅 2026-09-09 - A version manager for Node.js, designed to be installed per user, and invoked per shell.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,611 | 🐛 5 | 🌐 Inno Setup | 📅 2026-09-08 - Same of nvm, but for Windows.
+* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,467 | 🐛 2,551 | 🌐 Rust | 📅 2026-09-09 - A fast and disk space efficient package manager that can also manage Node.js versions via it's env command.
+* [fnm](https://github.com/Schniz/fnm) ⭐ 26,814 | 🐛 243 | 🌐 Rust | 📅 2026-07-24 - Fast and simple Node.js version manager built in Rust
 * [n](https://github.com/tj/n) ⭐ 19,514 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - An interactive manager that has no subshells and no profile setup.
-* [volta](https://github.com/volta-cli/volta) ⭐ 13,054 | 🐛 341 | 🌐 Rust | 📅 2025-11-15 - A JavaScript tool manager, designed to provide seamless, fully isolated node environments.
+* [volta](https://github.com/volta-cli/volta) ⭐ 13,056 | 🐛 341 | 🌐 Rust | 📅 2025-11-15 - A JavaScript tool manager, designed to provide seamless, fully isolated node environments.
 * [nvs](https://github.com/jasongin/nvs) ⭐ 2,962 | 🐛 94 | 🌐 JavaScript | 📅 2026-08-07 - A cross-platform utility for switching between different versions and forks of Node.js.
 * [nodenv](https://github.com/nodenv/nodenv) ⭐ 2,414 | 🐛 10 | 🌐 Shell | 📅 2026-09-07 - A tool that can automatically select the appropriate node version for a given project and doesn't require shell integration or overriding of builtin commands.
 * [nodebrew](https://github.com/hokaccha/nodebrew) ⭐ 1,067 | 🐛 17 | 🌐 Perl | 📅 2022-03-19 - A simple Node.js version manager.
@@ -76,7 +76,7 @@
 
 ### Ruby
 
-* [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,731 | 🐛 15 | 🌐 Shell | 📅 2026-07-14 - A manager that focus on switching Ruby versions.
+* [rbenv](https://github.com/rbenv/rbenv) ⭐ 16,732 | 🐛 15 | 🌐 Shell | 📅 2026-07-14 - A manager that focus on switching Ruby versions.
 * [rvm](https://github.com/rvm/rvm) ⭐ 5,188 | 🐛 558 | 🌐 Shell | 📅 2026-07-29 - A tool that is loaded into the shell, overrides some commands and also manages gemsets.
 * [chruby](https://github.com/postmodern/chruby) ⭐ 2,911 | 🐛 99 | 🌐 Shell | 📅 2025-10-27 - A Ruby version switcher that allows for auto-switching, updates PATH and has around 100 lines of code.
 * [frum](https://github.com/TaKO8Ki/frum) ⭐ 655 | 🐛 36 | 🌐 Rust | 📅 2022-05-13 - A fast and modern Ruby version manager written in Rust that is also cross-platform.
@@ -86,14 +86,14 @@
 ### Go
 
 * [gvm](https://github.com/moovweb/gvm) ⭐ 11,683 | 🐛 243 | 🌐 Shell | 📅 2024-08-08 - An interface to manage Go versions.
-* [g](https://github.com/voidint/g) ⭐ 2,876 | 🐛 16 | 🌐 Go | 📅 2026-08-30 - A command-line tool for Linux, macOS, and Windows that provides convenient management and switching of multiple versions of the Go environment.
+* [g](https://github.com/voidint/g) ⭐ 2,877 | 🐛 16 | 🌐 Go | 📅 2026-08-30 - A command-line tool for Linux, macOS, and Windows that provides convenient management and switching of multiple versions of the Go environment.
 * [goenv](https://github.com/syndbg/goenv) ⭐ 2,542 | 🐛 9 | 🌐 Shell | 📅 2026-09-04 - Version manager like pyenv and rbenv, but for Go.
 * [g](https://github.com/stefanmaric/g) ⭐ 1,082 | 🐛 3 | 🌐 Shell | 📅 2026-05-26 - A simples Go version manager inspired by `n`.
 * [goup](https://github.com/owenthereal/goup) ⭐ 604 | 🐛 14 | 🌐 Go | 📅 2024-12-11 - An elegant version manager written in Go that is installed with a one-liner and that work well on all Linux distros.
 
 ### Rust
 
-* [rustup](https://github.com/rust-lang/rustup) ⭐ 7,032 | 🐛 419 | 🌐 Rust | 📅 2026-09-08 - A manager that installs Rust from official release channels and allows to switch between stable, beta, and nightly compilers.
+* [rustup](https://github.com/rust-lang/rustup) ⭐ 7,034 | 🐛 421 | 🌐 Rust | 📅 2026-09-09 - A manager that installs Rust from official release channels and allows to switch between stable, beta, and nightly compilers.
 
 ### Java
 
@@ -113,7 +113,7 @@
 
 ### PHP
 
-* [phpbrew](https://github.com/phpbrew/phpbrew) ⭐ 5,526 | 🐛 100 | 🌐 Makefile | 📅 2026-01-28 - A utility that builds and installs multiple version of PHP in your HOME directory allowing of switching between them.
+* [phpbrew](https://github.com/phpbrew/phpbrew) ⭐ 5,525 | 🐛 100 | 🌐 Makefile | 📅 2026-01-28 - A utility that builds and installs multiple version of PHP in your HOME directory allowing of switching between them.
 * [phpenv](https://github.com/phpenv/phpenv) ⭐ 1,870 | 🐛 11 | 🌐 Shell | 📅 2026-07-30 - A version manager that operates binaries on the user directory and utilizes shims.
 
 ### Perl
@@ -147,7 +147,7 @@
 
 ### Flutter
 
-* [fvm](https://github.com/leoafarias/fvm) ⭐ 5,514 | 🐛 49 | 🌐 Dart | 📅 2026-09-04 - A version manager allowing to reference Flutter SDK version on a per-project basis, allows you to have multiple versions installed.
+* [fvm](https://github.com/leoafarias/fvm) ⭐ 5,516 | 🐛 37 | 🌐 Dart | 📅 2026-09-04 - A version manager allowing to reference Flutter SDK version on a per-project basis, allows you to have multiple versions installed.
 
 ### Scala
 
@@ -155,11 +155,11 @@
 
 ### Terraform
 
-* [tfenv](https://github.com/tfutils/tfenv) ⭐ 4,967 | 🐛 33 | 🌐 Shell | 📅 2026-07-01 - A Terraform version manager inspired by rbenv.
+* [tfenv](https://github.com/tfutils/tfenv) ⭐ 4,968 | 🐛 33 | 🌐 Shell | 📅 2026-07-01 - A Terraform version manager inspired by rbenv.
 
 ### OpenTofu
 
-* [tenv](https://github.com/tofuutils/tenv) ⭐ 1,433 | 🐛 45 | 🌐 Go | 📅 2026-09-01 - A versatile version manager for OpenTofu, Terraform and Terragrunt, written in Go.
+* [tenv](https://github.com/tofuutils/tenv) ⭐ 1,434 | 🐛 45 | 🌐 Go | 📅 2026-09-01 - A versatile version manager for OpenTofu, Terraform and Terragrunt, written in Go.
 * [tofuenv](https://github.com/tofuutils/tofuenv) ⭐ 236 | 🐛 21 | 🌐 Shell | 📅 2026-02-10 - A OpenTofu version manager inspired by tfenv.
 
 ### Solidity
@@ -168,8 +168,8 @@
 
 ### Xcode
 
-* [Xcodes.app](https://github.com/XcodesOrg/XcodesApp) ⭐ 8,510 | 🐛 225 | 🌐 Swift | 📅 2026-07-08 - An app that offers the easiest way to install and switch between multiple versions of Xcode.
-* [xcodes](https://github.com/XcodesOrg/xcodes) ⭐ 4,775 | 🐛 172 | 🌐 Swift | 📅 2026-07-08 - A command-line tool to install and switch between multiple versions of Xcode.
+* [Xcodes.app](https://github.com/XcodesOrg/XcodesApp) ⭐ 8,512 | 🐛 224 | 🌐 Swift | 📅 2026-09-08 - An app that offers the easiest way to install and switch between multiple versions of Xcode.
+* [xcodes](https://github.com/XcodesOrg/xcodes) ⭐ 4,776 | 🐛 172 | 🌐 Swift | 📅 2026-07-08 - A command-line tool to install and switch between multiple versions of Xcode.
 
 ### CMake
 
@@ -188,7 +188,7 @@
 
 ### R
 
-* [rig](https://github.com/r-lib/rig) ⭐ 987 | 🐛 67 | 🌐 Rust | 📅 2026-09-08 - A cross platform R version manager with no system requirements on any platform.
+* [rig](https://github.com/r-lib/rig) ⭐ 987 | 🐛 66 | 🌐 Rust | 📅 2026-09-09 - A cross platform R version manager with no system requirements on any platform.
 
 ### Zig
 
@@ -197,11 +197,11 @@
 
 ### Neovim
 
-* [bob](https://github.com/MordechaiHadad/bob) ⭐ 2,141 | 🐛 17 | 🌐 Rust | 📅 2026-09-07 - A cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line.
+* [bob](https://github.com/MordechaiHadad/bob) ⭐ 2,142 | 🐛 17 | 🌐 Rust | 📅 2026-09-07 - A cross-platform and easy-to-use Neovim version manager, allowing for easy switching between versions right from the command line.
 
 ### Lean
 
-* [elan](https://github.com/leanprover/elan) ⭐ 614 | 🐛 31 | 🌐 Rust | 📅 2026-08-26 - A small tool for managing your installations of the Lean theorem prover that is also the recommended way to set up in their documentation.
+* [elan](https://github.com/leanprover/elan) ⭐ 619 | 🐛 31 | 🌐 Rust | 📅 2026-08-26 - A small tool for managing your installations of the Lean theorem prover that is also the recommended way to set up in their documentation.
 
 ### D
 
@@ -214,4 +214,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
