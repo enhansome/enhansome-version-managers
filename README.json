@@ -17,11 +17,11 @@
                 "id": 586920414,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-16T08:52:33Z",
-                "open_issues": 45,
+                "last_commit": "2026-09-17T10:42:56Z",
+                "open_issues": 46,
                 "owner": "jdx",
                 "repo": "mise",
-                "stars": 33976,
+                "stars": 34027,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -81,7 +81,7 @@
                 "open_issues": 32,
                 "owner": "pkgxdev",
                 "repo": "pkgx",
-                "stars": 9920,
+                "stars": 9921,
                 "topics": [
                   "environment-manager",
                   "package-manager",
@@ -102,11 +102,11 @@
                 "id": 15730865,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T11:28:24Z",
-                "open_issues": 1808,
+                "last_commit": "2026-09-17T11:48:26Z",
+                "open_issues": 1805,
                 "owner": "spack",
                 "repo": "spack",
-                "stars": 5124,
+                "stars": 5125,
                 "topics": [
                   "build-tools",
                   "hpc",
@@ -136,10 +136,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T08:32:45Z",
-                "open_issues": 65,
+                "open_issues": 64,
                 "owner": "version-fox",
                 "repo": "vfox",
-                "stars": 3985,
+                "stars": 3989,
                 "topics": [
                   "asdf",
                   "bash",
@@ -198,11 +198,11 @@
                 "id": 399811207,
                 "language": "Go",
                 "license": null,
-                "last_commit": "2026-09-16T02:03:52Z",
+                "last_commit": "2026-09-17T03:19:50Z",
                 "open_issues": 177,
                 "owner": "aquaproj",
                 "repo": "aqua",
-                "stars": 1844,
+                "stars": 1843,
                 "topics": [
                   "cli",
                   "oss",
@@ -224,10 +224,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-11T03:18:03Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "moonrepo",
                 "repo": "proto",
-                "stars": 1415,
+                "stars": 1416,
                 "topics": [
                   "bun",
                   "deno",
@@ -256,7 +256,7 @@
                 "open_issues": 26,
                 "owner": "gvcgo",
                 "repo": "version-manager",
-                "stars": 1339,
+                "stars": 1338,
                 "topics": [
                   "asdf-vm",
                   "conda",
@@ -296,7 +296,7 @@
                 "open_issues": 16,
                 "owner": "version-manager",
                 "repo": "woof",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "asdf",
                   "basalt",
@@ -327,11 +327,11 @@
                 "id": 699532645,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T11:55:52Z",
-                "open_issues": 2899,
+                "last_commit": "2026-09-17T11:42:19Z",
+                "open_issues": 2896,
                 "owner": "astral-sh",
                 "repo": "uv",
-                "stars": 89864,
+                "stars": 89909,
                 "topics": [
                   "packaging",
                   "python",
@@ -353,11 +353,11 @@
                 "id": 5625464,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-14T23:24:23Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-17T07:06:18Z",
+                "open_issues": 55,
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45103,
+                "stars": 45104,
                 "topics": [
                   "python",
                   "shell"
@@ -461,7 +461,7 @@
                 "open_issues": 390,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95090,
+                "stars": 95102,
                 "topics": [
                   "bash",
                   "install",
@@ -496,7 +496,7 @@
                 "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47689,
+                "stars": 47708,
                 "topics": [
                   "install",
                   "node",
@@ -521,11 +521,11 @@
                 "id": 50565430,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-16T11:43:00Z",
-                "open_issues": 2566,
+                "last_commit": "2026-09-17T11:57:41Z",
+                "open_issues": 2581,
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36538,
+                "stars": 36547,
                 "topics": [
                   "dependency-manager",
                   "install",
@@ -552,10 +552,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-24T14:28:38Z",
-                "open_issues": 246,
+                "open_issues": 247,
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 26870,
+                "stars": 26877,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -583,7 +583,7 @@
                 "open_issues": 5,
                 "owner": "tj",
                 "repo": "n",
-                "stars": 19513,
+                "stars": 19514,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -604,7 +604,7 @@
                 "open_issues": 343,
                 "owner": "volta-cli",
                 "repo": "volta",
-                "stars": 13065,
+                "stars": 13064,
                 "topics": [
                   "node",
                   "nodejs",
@@ -808,7 +808,7 @@
                 "open_issues": 17,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16732,
+                "stars": 16735,
                 "topics": [
                   "bash",
                   "ruby",
@@ -943,7 +943,7 @@
                 "open_issues": 243,
                 "owner": "moovweb",
                 "repo": "gvm",
-                "stars": 11686,
+                "stars": 11689,
                 "topics": [
                   "dependency-manager",
                   "golang"
@@ -991,7 +991,7 @@
                 "open_issues": 9,
                 "owner": "go-nv",
                 "repo": "goenv",
-                "stars": 2541,
+                "stars": 2542,
                 "topics": [
                   "bash",
                   "go",
@@ -1086,11 +1086,11 @@
                 "id": 43192623,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T10:02:32Z",
-                "open_issues": 420,
+                "last_commit": "2026-09-17T01:06:56Z",
+                "open_issues": 423,
                 "owner": "rust-lang",
                 "repo": "rustup",
-                "stars": 7041,
+                "stars": 7045,
                 "topics": [
                   "hacktoberfest",
                   "rust",
@@ -1214,7 +1214,7 @@
                 "open_issues": 100,
                 "owner": "sdkman",
                 "repo": "sdkman-cli",
-                "stars": 6849,
+                "stars": 6852,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -1640,7 +1640,7 @@
                 "open_issues": 39,
                 "owner": "leoafarias",
                 "repo": "fvm",
-                "stars": 5521,
+                "stars": 5523,
                 "topics": [
                   "cli",
                   "dart",
@@ -1840,10 +1840,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-14T14:52:15Z",
-                "open_issues": 223,
+                "open_issues": 224,
                 "owner": "XcodesOrg",
                 "repo": "XcodesApp",
-                "stars": 8541,
+                "stars": 8547,
                 "topics": [
                   "combine",
                   "hacktoberfest",
@@ -1872,7 +1872,7 @@
                 "open_issues": 171,
                 "owner": "XcodesOrg",
                 "repo": "xcodes",
-                "stars": 4802,
+                "stars": 4808,
                 "topics": [
                   "hacktoberfest",
                   "macos",
@@ -1965,7 +1965,7 @@
                 "open_issues": 54,
                 "owner": "MakovWait",
                 "repo": "godots",
-                "stars": 798,
+                "stars": 799,
                 "topics": [
                   "gdscript",
                   "godot",
@@ -2040,11 +2040,11 @@
                 "id": 426215921,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-16T11:41:10Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-17T11:33:02Z",
+                "open_issues": 10,
                 "owner": "r-lib",
                 "repo": "rig",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "installation",
                   "r"
@@ -2095,11 +2095,11 @@
                 "id": 563690547,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-16T11:37:02Z",
+                "last_commit": "2026-09-17T11:44:21Z",
                 "open_issues": 3,
                 "owner": "tristanisham",
                 "repo": "zvm",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": [
                   "version-control",
                   "version-manager",
@@ -2169,7 +2169,7 @@
                 "open_issues": 31,
                 "owner": "leanprover",
                 "repo": "elan",
-                "stars": 635,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -2240,7 +2240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:58:38.394Z",
+    "last_updated": "2026-09-17T12:00:11.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Version Managers",
