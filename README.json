@@ -17,11 +17,11 @@
                 "id": 586920414,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-26T09:29:17Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-27T08:34:37Z",
+                "open_issues": 25,
                 "owner": "jdx",
                 "repo": "mise",
-                "stars": 34306,
+                "stars": 34336,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -42,7 +42,7 @@
                 "open_issues": 146,
                 "owner": "asdf-vm",
                 "repo": "asdf",
-                "stars": 25590,
+                "stars": 25588,
                 "topics": [
                   "asdf-vm",
                   "bash",
@@ -81,7 +81,7 @@
                 "open_issues": 32,
                 "owner": "pkgxdev",
                 "repo": "pkgx",
-                "stars": 9923,
+                "stars": 9921,
                 "topics": [
                   "environment-manager",
                   "package-manager",
@@ -106,7 +106,7 @@
                 "open_issues": 1819,
                 "owner": "spack",
                 "repo": "spack",
-                "stars": 5130,
+                "stars": 5132,
                 "topics": [
                   "build-tools",
                   "hpc",
@@ -139,7 +139,7 @@
                 "open_issues": 62,
                 "owner": "version-fox",
                 "repo": "vfox",
-                "stars": 3988,
+                "stars": 3989,
                 "topics": [
                   "asdf",
                   "bash",
@@ -159,6 +159,31 @@
                   "version-manager",
                   "windows",
                   "zsh"
+                ]
+              },
+              "first_seen": "2026-08-28T18:58:21.130Z"
+            },
+            {
+              "node_type": "item",
+              "title": "aqua",
+              "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
+                "homepage": "https://aquaproj.github.io",
+                "id": 399811207,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2026-09-27T09:11:22Z",
+                "open_issues": 183,
+                "owner": "aquaproj",
+                "repo": "aqua",
+                "stars": 1854,
+                "topics": [
+                  "cli",
+                  "oss",
+                  "version-manager"
                 ]
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -188,31 +213,6 @@
             },
             {
               "node_type": "item",
-              "title": "aqua",
-              "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
-                "homepage": "https://aquaproj.github.io",
-                "id": 399811207,
-                "language": "Go",
-                "license": null,
-                "last_commit": "2026-09-26T09:32:21Z",
-                "open_issues": 183,
-                "owner": "aquaproj",
-                "repo": "aqua",
-                "stars": 1853,
-                "topics": [
-                  "cli",
-                  "oss",
-                  "version-manager"
-                ]
-              },
-              "first_seen": "2026-08-28T18:58:21.130Z"
-            },
-            {
-              "node_type": "item",
               "title": "proto",
               "description": "A pluggable next-generation version manager for multiple programming languages as unified toolchain.",
               "children": [],
@@ -223,8 +223,8 @@
                 "id": 602787735,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-26T05:19:43Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-26T21:20:27Z",
+                "open_issues": 26,
                 "owner": "moonrepo",
                 "repo": "proto",
                 "stars": 1423,
@@ -327,11 +327,11 @@
                 "id": 699532645,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T04:35:57Z",
-                "open_issues": 2917,
+                "last_commit": "2026-09-27T01:55:10Z",
+                "open_issues": 2918,
                 "owner": "astral-sh",
                 "repo": "uv",
-                "stars": 90186,
+                "stars": 90215,
                 "topics": [
                   "packaging",
                   "python",
@@ -353,11 +353,11 @@
                 "id": 5625464,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-25T20:45:13Z",
-                "open_issues": 57,
+                "last_commit": "2026-09-27T09:11:21Z",
+                "open_issues": 56,
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45112,
+                "stars": 45116,
                 "topics": [
                   "python",
                   "shell"
@@ -458,10 +458,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-21T02:24:04Z",
-                "open_issues": 392,
+                "open_issues": 391,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95188,
+                "stars": 95194,
                 "topics": [
                   "bash",
                   "install",
@@ -493,10 +493,10 @@
                 "language": "Inno Setup",
                 "license": null,
                 "last_commit": "2026-09-25T20:46:48Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47792,
+                "stars": 47801,
                 "topics": [
                   "install",
                   "node",
@@ -521,11 +521,11 @@
                 "id": 50565430,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-26T11:25:31Z",
-                "open_issues": 479,
+                "last_commit": "2026-09-27T12:22:03Z",
+                "open_issues": 312,
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36649,
+                "stars": 36670,
                 "topics": [
                   "dependency-manager",
                   "install",
@@ -555,7 +555,7 @@
                 "open_issues": 248,
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 26961,
+                "stars": 26973,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -604,7 +604,7 @@
                 "open_issues": 344,
                 "owner": "volta-cli",
                 "repo": "volta",
-                "stars": 13069,
+                "stars": 13070,
                 "topics": [
                   "node",
                   "nodejs",
@@ -650,7 +650,7 @@
                 "open_issues": 10,
                 "owner": "nodenv",
                 "repo": "nodenv",
-                "stars": 2414,
+                "stars": 2413,
                 "topics": [
                   "node",
                   "nodejs",
@@ -835,7 +835,7 @@
                 "open_issues": 561,
                 "owner": "rvm",
                 "repo": "rvm",
-                "stars": 5189,
+                "stars": 5188,
                 "topics": [
                   "jruby",
                   "mri-ruby",
@@ -940,10 +940,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2024-08-08T13:36:18Z",
-                "open_issues": 243,
+                "open_issues": 244,
                 "owner": "moovweb",
                 "repo": "gvm",
-                "stars": 11697,
+                "stars": 11695,
                 "topics": [
                   "dependency-manager",
                   "golang"
@@ -967,7 +967,7 @@
                 "open_issues": 16,
                 "owner": "voidint",
                 "repo": "g",
-                "stars": 2884,
+                "stars": 2885,
                 "topics": [
                   "golang",
                   "version-manager"
@@ -1058,7 +1058,7 @@
                 "open_issues": 14,
                 "owner": "owenthereal",
                 "repo": "goup",
-                "stars": 606,
+                "stars": 605,
                 "topics": [
                   "golang",
                   "installer",
@@ -1087,7 +1087,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T15:00:30Z",
-                "open_issues": 417,
+                "open_issues": 418,
                 "owner": "rust-lang",
                 "repo": "rustup",
                 "stars": 7052,
@@ -1214,7 +1214,7 @@
                 "open_issues": 100,
                 "owner": "sdkman",
                 "repo": "sdkman-cli",
-                "stars": 6858,
+                "stars": 6859,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -1318,7 +1318,7 @@
                 "open_issues": 11,
                 "owner": "phpenv",
                 "repo": "phpenv",
-                "stars": 1871,
+                "stars": 1872,
                 "topics": [
                   "hacktoberfest",
                   "php",
@@ -1640,7 +1640,7 @@
                 "open_issues": 40,
                 "owner": "leoafarias",
                 "repo": "fvm",
-                "stars": 5525,
+                "stars": 5526,
                 "topics": [
                   "cli",
                   "dart",
@@ -1808,7 +1808,7 @@
                 "id": 405391042,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T11:59:27Z",
+                "last_commit": "2026-09-27T12:16:28Z",
                 "open_issues": 7,
                 "owner": "alloy-rs",
                 "repo": "svm-rs",
@@ -1843,7 +1843,7 @@
                 "open_issues": 228,
                 "owner": "XcodesOrg",
                 "repo": "XcodesApp",
-                "stars": 8576,
+                "stars": 8577,
                 "topics": [
                   "combine",
                   "hacktoberfest",
@@ -1872,7 +1872,7 @@
                 "open_issues": 171,
                 "owner": "XcodesOrg",
                 "repo": "xcodes",
-                "stars": 4836,
+                "stars": 4837,
                 "topics": [
                   "hacktoberfest",
                   "macos",
@@ -2240,7 +2240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:43:15.843Z",
+    "last_updated": "2026-09-27T12:22:49.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Version Managers",
