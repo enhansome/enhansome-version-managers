@@ -40,7 +40,7 @@
 
 ### Generic
 
-* [mise](https://github.com/jdx/mise) ⭐ 34,642 | 🐛 21 | 🌐 Rust | 📅 2026-10-06 - An `asdf` drop-in replacement written in Rust.
+* [mise](https://github.com/jdx/mise) ⭐ 34,644 | 🐛 27 | 🌐 Rust | 📅 2026-10-06 - An `asdf` drop-in replacement written in Rust.
 * [asdf-vm](https://github.com/asdf-vm/asdf) ⭐ 25,595 | 🐛 149 | 🌐 Go | 📅 2026-10-01 - An extendable version manager using a plugin structure to handle new version managers.
 * [pkgx](https://github.com/pkgxdev/pkgx) ⭐ 9,920 | 🐛 32 | 🌐 Rust | 📅 2026-10-05 - A blazingly fast, standalone, cross‐platform binary that runs anything in any version with zero system impact.
 * [spack](https://github.com/spack/spack) ⭐ 5,134 | 🐛 1,736 | 🌐 Python | 📅 2026-10-05 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
@@ -53,20 +53,20 @@
 
 ### Python
 
-* [uv](https://github.com/astral-sh/uv) ⭐ 90,431 | 🐛 2,959 | 🌐 Rust | 📅 2026-10-06 - An extremely fast Python package and project manager, written in Rust.
-* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,126 | 🐛 52 | 🌐 Shell | 📅 2026-10-03 - A tool that allows you to switch between multiple versions of Python.
+* [uv](https://github.com/astral-sh/uv) ⭐ 90,436 | 🐛 2,959 | 🌐 Rust | 📅 2026-10-06 - An extremely fast Python package and project manager, written in Rust.
+* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,125 | 🐛 52 | 🌐 Shell | 📅 2026-10-03 - A tool that allows you to switch between multiple versions of Python.
 * [pyenv-win](https://github.com/pyenv-win/pyenv-win) ⭐ 7,408 | 🐛 169 | 🌐 VBScript | 📅 2026-10-02 - A porting of pyenv for Windows.
 * [pyflow](https://github.com/David-OConnor/pyflow) ⭐ 1,340 | 🐛 62 | 🌐 Rust | 📅 2026-03-21 - A multipurpose Python environment manager.
 * [pythonz](https://github.com/saghul/pythonz) ⚠️ Archived - A program to automate the building and installation of Python versions.
 
 ### Node.js
 
-* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,273 | 🐛 392 | 🌐 Shell | 📅 2026-10-05 - A version manager for Node.js, designed to be installed per user, and invoked per shell.
-* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,865 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-06 - Same of nvm, but for Windows.
-* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,743 | 🐛 213 | 🌐 Rust | 📅 2026-10-06 - A fast and disk space efficient package manager that can also manage Node.js versions via it's env command.
-* [fnm](https://github.com/Schniz/fnm) ⭐ 27,039 | 🐛 247 | 🌐 Rust | 📅 2026-07-24 - Fast and simple Node.js version manager built in Rust
+* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,275 | 🐛 393 | 🌐 Shell | 📅 2026-10-05 - A version manager for Node.js, designed to be installed per user, and invoked per shell.
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 47,867 | 🐛 3 | 🌐 Inno Setup | 📅 2026-10-06 - Same of nvm, but for Windows.
+* [pnpm](https://github.com/pnpm/pnpm) ⭐ 36,749 | 🐛 215 | 🌐 Rust | 📅 2026-10-06 - A fast and disk space efficient package manager that can also manage Node.js versions via it's env command.
+* [fnm](https://github.com/Schniz/fnm) ⭐ 27,041 | 🐛 247 | 🌐 Rust | 📅 2026-07-24 - Fast and simple Node.js version manager built in Rust
 * [n](https://github.com/tj/n) ⭐ 19,516 | 🐛 5 | 🌐 Shell | 📅 2026-08-30 - An interactive manager that has no subshells and no profile setup.
-* [volta](https://github.com/volta-cli/volta) ⭐ 13,066 | 🐛 343 | 🌐 Rust | 📅 2025-11-15 - A JavaScript tool manager, designed to provide seamless, fully isolated node environments.
+* [volta](https://github.com/volta-cli/volta) ⭐ 13,067 | 🐛 343 | 🌐 Rust | 📅 2025-11-15 - A JavaScript tool manager, designed to provide seamless, fully isolated node environments.
 * [nvs](https://github.com/jasongin/nvs) ⭐ 2,960 | 🐛 97 | 🌐 JavaScript | 📅 2026-09-13 - A cross-platform utility for switching between different versions and forks of Node.js.
 * [nodenv](https://github.com/nodenv/nodenv) ⭐ 2,415 | 🐛 10 | 🌐 Shell | 📅 2026-10-05 - A tool that can automatically select the appropriate node version for a given project and doesn't require shell integration or overriding of builtin commands.
 * [nodebrew](https://github.com/hokaccha/nodebrew) ⭐ 1,068 | 🐛 17 | 🌐 Perl | 📅 2022-03-19 - A simple Node.js version manager.
@@ -104,7 +104,7 @@
 
 ### JVM
 
-* [SDKMAN!](https://github.com/sdkman/sdkman-cli) ⭐ 6,865 | 🐛 97 | 🌐 Shell | 📅 2026-10-06 - Install Software Development Kits for the JVM such as Java, Scala, Kotlin and Groovy. Ant, Gradle, Grails, Maven, SBT, Spark, Spring Boot, Vert.x and many others also supported.
+* [SDKMAN!](https://github.com/sdkman/sdkman-cli) ⭐ 6,864 | 🐛 97 | 🌐 Shell | 📅 2026-10-06 - Install Software Development Kits for the JVM such as Java, Scala, Kotlin and Groovy. Ant, Gradle, Grails, Maven, SBT, Spark, Spring Boot, Vert.x and many others also supported.
 
 ### Swift
 
@@ -164,7 +164,7 @@
 
 ### Solidity
 
-* [svm-rs](https://github.com/roynalnaruto/svm-rs) ⭐ 291 | 🐛 7 | 🌐 Rust | 📅 2026-10-05 - A Solidity compiler version manager made in Rust.
+* [svm-rs](https://github.com/roynalnaruto/svm-rs) ⭐ 290 | 🐛 7 | 🌐 Rust | 📅 2026-10-05 - A Solidity compiler version manager made in Rust.
 
 ### Xcode
 

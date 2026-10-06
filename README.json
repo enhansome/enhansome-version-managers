@@ -17,11 +17,11 @@
                 "id": 586920414,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:54:15Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-06T13:32:26Z",
+                "open_issues": 27,
                 "owner": "jdx",
                 "repo": "mise",
-                "stars": 34642,
+                "stars": 34644,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -327,11 +327,11 @@
                 "id": 699532645,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:29:41Z",
+                "last_commit": "2026-10-06T12:03:46Z",
                 "open_issues": 2959,
                 "owner": "astral-sh",
                 "repo": "uv",
-                "stars": 90431,
+                "stars": 90436,
                 "topics": [
                   "packaging",
                   "python",
@@ -357,7 +357,7 @@
                 "open_issues": 52,
                 "owner": "pyenv",
                 "repo": "pyenv",
-                "stars": 45126,
+                "stars": 45125,
                 "topics": [
                   "python",
                   "shell"
@@ -458,10 +458,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-10-05T18:21:14Z",
-                "open_issues": 392,
+                "open_issues": 393,
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 95273,
+                "stars": 95275,
                 "topics": [
                   "bash",
                   "install",
@@ -496,7 +496,7 @@
                 "open_issues": 3,
                 "owner": "nvm-windows",
                 "repo": "nvm",
-                "stars": 47865,
+                "stars": 47867,
                 "topics": [
                   "install",
                   "node",
@@ -521,11 +521,11 @@
                 "id": 50565430,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:37:11Z",
-                "open_issues": 213,
+                "last_commit": "2026-10-06T12:44:37Z",
+                "open_issues": 215,
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36743,
+                "stars": 36749,
                 "topics": [
                   "dependency-manager",
                   "install",
@@ -555,7 +555,7 @@
                 "open_issues": 247,
                 "owner": "Schniz",
                 "repo": "fnm",
-                "stars": 27039,
+                "stars": 27041,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -604,7 +604,7 @@
                 "open_issues": 343,
                 "owner": "volta-cli",
                 "repo": "volta",
-                "stars": 13066,
+                "stars": 13067,
                 "topics": [
                   "node",
                   "nodejs",
@@ -1214,7 +1214,7 @@
                 "open_issues": 97,
                 "owner": "sdkman",
                 "repo": "sdkman-cli",
-                "stars": 6865,
+                "stars": 6864,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:58:21.130Z"
@@ -1813,7 +1813,7 @@
                 "open_issues": 7,
                 "owner": "alloy-rs",
                 "repo": "svm-rs",
-                "stars": 291,
+                "stars": 290,
                 "topics": [
                   "solidity",
                   "version-manager"
@@ -2241,7 +2241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:24.696Z",
+    "last_updated": "2026-10-06T13:33:24.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Version Managers",
